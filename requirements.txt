@@ -1,0 +1,20 @@
+# Game Engine
+Unity (Version used for development)
+
+# AI Tools
+Cursor (AI-assisted IDE)
+ChatGPT (design, debugging, documentation)
+
+# Art Tools
+Leonardo AI (asset generation)
+
+# Sound Tools
+ElevenLabs (voice generation)
+Soundraw (music/sound effects)
+
+# Version Control
+Git / GitHub
+
+# Dependencies
+- Unity CharacterController
+- Unity UI System (Canvas, Text, etc.)
