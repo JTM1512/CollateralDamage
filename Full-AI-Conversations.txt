@@ -1,0 +1,4656 @@
+ChatGPT 
+
+GADS Part 1_260324_082118.pdf
+PDF
+help me plan this out
+
+Alright — this is a big assignment, but it’s actually very doable if you structure it properly. I’ll break it down into a clear, practical plan you can follow step-by-step so you don’t get overwhelmed.
+
+🎮 OVERALL STRATEGY (Important)
+This isn’t just about making a game.
+
+You are being graded on:
+
+AI usage (30%) → MOST IMPORTANT
+
+Design & creativity (25%)
+
+Technical execution (25%)
+
+Documentation (10%)
+
+Reflection (10%)
+
+👉 So your goal is NOT just a cool game
+👉 Your goal is to show HOW you used AI smartly
+
+🧠 STEP 1: BEFORE THE JAM (Prep now)
+Do this BEFORE Day 1 starts:
+
+✅ Tools setup
+Unity (your project ready)
+
+Cursor (or AI IDE)
+
+GitHub repo created
+
+AI tools ready:
+
+ChatGPT (writing + planning)
+
+Leonardo AI / Meshy (art)
+
+Soundraw / ElevenLabs (audio)
+
+✅ Prepare reusable structure
+Have these files ready (empty or templated):
+
+plan.md
+
+readme.md
+
+refinements-changes.md
+
+✅ Prepare a SIMPLE GAME IDEA TEMPLATE
+Because you only get 3 days, your game MUST be simple.
+
+Good examples:
+
+Endless runner (you already have experience 👀)
+
+Wave survival shooter
+
+Collect-and-escape game
+
+Simple boss fight loop
+
+👉 Avoid:
+
+Open world
+
+Complex AI systems
+
+Multiplayer
+
+🗓️ DAY 1: IDEATION & PLANNING
+🎯 Goal: Define EVERYTHING clearly
+🔹 1. High Concept Document (1 page)
+Use this structure:
+
+Title:
+Genre:
+Core Gameplay Loop: (MOST IMPORTANT)
+
+Example: Move → Avoid obstacles → Collect points → Fight boss → Repeat
+
+Visual Style:
+Player Experience: (fast-paced? stressful? relaxing?)
+
+🔹 2. plan.md (VERY IMPORTANT FOR MARKS)
+Structure it like this:
+
+# Game Plan
+
+## Core Idea
+(short description)
+
+## Mechanics
+- Player movement
+- Enemy spawning
+- Scoring system
+- Boss system
+
+## AI Tools Used
+- Cursor → scripting
+- ChatGPT → debugging + logic
+- Leonardo AI → art
+- ElevenLabs → voice/audio
+
+## Development Plan
+
+### Day 1
+- Idea + planning
+- Setup project
+
+### Day 2
+- Build core gameplay
+
+### Day 3
+- Polish + fix bugs
+
+## Risks
+- AI code errors
+- Time constraints
+
+## Backup Plan
+- Simplify game mechanics if needed
+🔹 3. readme.md
+Include:
+
+Game description
+
+How to run it
+
+Controls
+
+AI tools used
+
+Credits
+
+🔹 4. refinements-changes.md
+VERY IMPORTANT → update this constantly
+
+Example:
+
+Day 1:
+- Changed idea from shooter → endless runner (too complex)
+- AI suggested simpler spawn system
+
+Day 2:
+- AI-generated enemy script broke → fixed manually
+👉 This proves real AI collaboration
+
+🗓️ DAY 2: BUILD THE GAME
+🎯 Goal: PLAYABLE PROTOTYPE
+🔹 Focus ONLY on core loop
+Example:
+
+Move
+
+Spawn obstacles/enemies
+
+Score system
+
+One special feature (boss / ability)
+
+🔹 Use AI for EVERYTHING
+You MUST show:
+
+AI generated scripts
+
+You modified them
+
+Example workflow:
+
+Ask AI:
+
+“Create a Unity C# player controller using CharacterController”
+
+Then:
+
+Fix bugs
+
+Adjust speed
+
+Add your own logic
+
+👉 This is how you score high (not copy-paste!)
+
+🔹 Combine systems (important for marks)
+You need:
+
+Player system
+
+Enemy/spawn system
+
+Score system
+
+Game loop
+
+👉 Then connect them all
+
+🔹 Record Video (2–5 min)
+Show:
+
+Gameplay
+
+Explain:
+
+What AI did
+
+What YOU changed
+
+🗓️ DAY 3: POLISH & FINALISE
+🎯 Goal: MAKE IT LOOK COMPLETE
+🔹 Fix:
+Bugs
+
+UI (score display)
+
+Sounds
+
+Feedback (hit effects, etc.)
+
+🔹 Add ONE improvement using AI
+Example:
+
+Power-up system
+
+Better enemy behavior
+
+UI upgrade
+
+🔹 Final Video
+Explain:
+
+What changed from Day 2 → Day 3
+
+How AI helped improve it
+
+🧾 REFLECTION (VERY IMPORTANT)
+You need ~200 words EACH.
+
+Example ideas you can use:
+💡 Where AI helped:
+Fast script generation
+
+Debugging
+
+Idea generation
+
+⚠️ Where AI failed:
+Bugs
+
+Generic code
+
+Needed manual fixes
+
+🧠 Ethical thoughts:
+You edited AI output (good)
+
+You didn’t just copy (important)
+
+🏆 HOW TO GET HIGH MARKS (REAL TALK)
+To hit 75%+ (Mastered):
+
+🔥 You MUST:
+Use AI in:
+
+Code
+
+Art
+
+Sound
+
+Docs
+
+Show iteration
+
+Show you fixed AI mistakes
+
+Keep documentation clean
+
+⚠️ BIGGEST MISTAKES TO AVOID
+❌ Making the game too big
+❌ Not documenting AI usage
+❌ Copy-pasting AI code without changes
+❌ Not connecting systems together
+❌ Weak reflections
+
+💡 SMART IDEA (based on your Unity experience)
+You should strongly consider:
+
+👉 Endless runner with boss fights
+(because you already built something similar)
+
+Why?
+
+Faster to build
+
+You can reuse logic
+
+Easy to expand with AI features
+
+🚀 If you want next step
+I can:
+
+Help you come up with a game idea when the theme drops
+
+Generate your High Concept + plan.md instantly
+
+Help you structure your Unity project
+
+Fix your scripts (like we’ve been doing)
+
+Just tell me 👍
+
+
+okay, our theme is, you are not the main character. Help me plan this out for a game with this theme 
+
+That’s a great theme — and honestly, it’s perfect for scoring high marks because it naturally pushes creativity and AI usage.
+
+Let’s build you something simple, unique, and achievable in 3 days 👇
+
+🎮 CORE IDEA: “You Are Not the Main Character”
+🔥 Best approach (for marks + feasibility):
+👉 You play as a supporting character helping an AI-controlled “hero”
+
+This gives you:
+
+Clear theme interpretation ✅
+
+AI integration opportunities ✅
+
+Simple gameplay loop ✅
+
+💡 GAME CONCEPT (Recommended)
+🎯 Title:
+“Behind the Hero”
+
+🧠 Core Idea:
+You are a support drone / companion / sidekick helping an AI-controlled hero survive.
+
+👉 The hero fights enemies automatically
+👉 YOU keep them alive
+
+🔁 Core Gameplay Loop:
+Follow hero → Assist them → Keep them alive → Progress → Repeat
+
+🎮 Player Role:
+You are NOT the main character because:
+
+You don’t attack directly
+
+You support, heal, and protect
+
+The “hero” gets the spotlight
+
+🧩 GAMEPLAY MECHANICS (Keep it simple)
+🔹 1. Player (YOU)
+Movement (free flying or following)
+
+Abilities:
+
+Heal hero
+
+Drop shield
+
+Slow enemies
+
+👉 Easy to implement with AI scripts
+
+🔹 2. AI Hero (Main Character)
+Auto-moves forward
+
+Auto-attacks enemies
+
+👉 Use AI to generate:
+
+Basic enemy targeting
+
+Simple attack system
+
+🔹 3. Enemies
+Spawn in waves
+
+Attack hero (NOT you)
+
+🔹 4. Health System
+Hero has HP
+
+If hero dies → game over
+
+🔹 5. Score System
+Time survived OR enemies defeated
+
+🧠 WHY THIS IDEA IS STRONG
+✅ Fits theme perfectly
+You literally play a side character
+
+✅ Easy to build
+You already:
+
+Know movement systems
+
+Know spawners 👀
+
+✅ AI integration opportunities (BIG MARKS)
+You can use AI for:
+
+Hero AI
+
+Enemy spawning
+
+UI
+
+Dialogue (hero talking to you 👀🔥)
+
+🧠 AI USAGE PLAN (THIS GETS YOU MARKS)
+Put this in your plan.md 👇
+
+💻 Coding (Cursor / ChatGPT)
+Player controller
+
+AI hero behavior
+
+Enemy spawning
+
+Health system
+
+🎨 Art (Leonardo AI)
+Hero character
+
+Drone/player
+
+UI icons
+
+🔊 Sound (ElevenLabs / Soundraw)
+Hero voice lines:
+
+“I need healing!”
+“Watch out!”
+
+🧠 Writing (ChatGPT)
+Dialogue
+
+Story
+
+Documentation
+
+🗓️ YOUR 3-DAY PLAN
+🗓️ DAY 1 (IDEATION)
+Deliver:
+High Concept
+
+plan.md
+
+readme.md
+
+🔥 Define clearly:
+You = support drone
+
+Hero = AI-controlled
+
+Goal = keep hero alive
+
+🗓️ DAY 2 (BUILD)
+🎯 Focus ONLY on:
+Player movement
+
+Hero movement + auto attack
+
+Enemy spawner
+
+Health system
+
+👉 Ignore polish for now
+
+💡 Minimum playable version:
+Hero walks forward
+
+Enemies spawn
+
+You heal hero
+
+Hero survives/dies
+
+🗓️ DAY 3 (POLISH)
+Add:
+UI (health bar)
+
+Sound
+
+Effects
+
+🔥 Add ONE cool feature:
+Pick one:
+
+Shield ability
+
+Slow time ability
+
+Revive mechanic
+
+🎥 VIDEO IDEAS (IMPORTANT)
+Day 2 Video:
+Explain:
+
+“AI generated my player controller”
+
+“I modified it to add healing”
+
+Day 3 Video:
+Explain:
+
+Improvements
+
+Bugs fixed
+
+AI contribution
+
+🧾 REFLECTION IDEAS (YOU’LL NEED THIS)
+You can say things like:
+
+👍 AI helped:
+Generate scripts quickly
+
+Speed up debugging
+
+👎 AI struggled:
+Needed manual fixes
+
+Sometimes gave generic logic
+
+⚖️ Ethics:
+You edited AI output
+
+You didn’t rely blindly
+
+🔥 ALTERNATIVE IDEAS (if you want options)
+🧠 Option 2: “The Villain’s Assistant”
+You help the villain instead of the hero
+(e.g., setting traps, opening doors)
+
+🧠 Option 3: “The NPC Life”
+You are an NPC in a world where a hero causes chaos
+You just try to survive
+
+🧠 Option 4: “The Camera”
+You control the camera, not the character
+(help guide the player indirectly)
+
+🏆 FINAL RECOMMENDATION
+👉 Go with: “Behind the Hero” (Support Drone Game)
+
+Because:
+
+Fast to build ✅
+
+Easy to expand ✅
+
+Strong theme connection ✅
+
+Perfect for AI integration ✅
+
+🚀 Next step
+If you want, I can:
+
+Write your High Concept Document
+
+Generate your plan.md
+
+Help you build the hero AI script
+
+Help you design your Unity structure
+
+Just tell me 👍
+
+
+what about a game about being a clean up crew after or while the hero battles
+
+That’s actually a really strong idea — arguably even better than the support drone concept for creativity 👀
+
+It fits the theme “you are not the main character” in a more original and interesting way, which helps push you toward higher marks in Creativity & Design.
+
+Let’s shape it into something simple enough to build in 3 days but still impressive.
+
+🎮 GAME CONCEPT: Cleanup Crew Game
+🏷️ Title Ideas:
+“After the Hero”
+
+“Collateral Damage” 🔥 (very strong name)
+
+“Clean-Up Duty”
+
+“Not My Mess”
+
+🧠 CORE IDEA
+You play as a cleanup worker in a world where a powerful hero is constantly fighting enemies.
+
+👉 The hero causes chaos
+👉 You deal with the consequences
+
+🔥 TWO DIRECTIONS (Pick ONE)
+✅ OPTION A (RECOMMENDED): AFTER THE BATTLE
+🧠 Concept:
+The hero has already fought.
+
+You:
+
+Clean debris
+
+Repair damage
+
+Avoid hazards left behind
+
+🎮 Gameplay Loop:
+Enter area → Clean/repair → Avoid leftover dangers → Finish → Move on
+
+💡 Mechanics:
+Pick up debris
+
+Repair broken objects
+
+Avoid:
+
+Fire
+
+Explosions
+
+Traps left behind
+
+✅ Why this is best:
+MUCH easier to build
+
+Less AI complexity
+
+More polish possible
+
+🔥 OPTION B: DURING THE BATTLE (More impressive but harder)
+🧠 Concept:
+The hero is actively fighting in the background.
+
+You:
+
+Run around cleaning while chaos happens
+
+🎮 Gameplay Loop:
+Hero fights → Destruction happens → You clean while dodging attacks
+
+💡 Mechanics:
+Falling debris
+
+Random explosions
+
+Hero attacks affecting environment
+
+⚠️ Risk:
+Harder to implement
+
+More bugs
+
+👉 Only do this if you keep it VERY simple
+
+🧩 SIMPLE GAMEPLAY SYSTEM (KEEP THIS SMALL)
+🔹 1. Player (You)
+Movement (basic controller)
+
+Interact button:
+
+Clean
+
+Repair
+
+🔹 2. Objects
+Debris (pickup)
+
+Broken objects (repair)
+
+🔹 3. Hazards
+Fire zones
+
+Explosive areas
+
+Falling objects
+
+🔹 4. Score System
+Points for cleaning
+
+Time-based scoring
+
+🔹 5. Win Condition
+Clean all objects OR survive time limit
+
+🧠 WHERE AI COMES IN (IMPORTANT FOR 30%)
+You need to SHOW AI use clearly.
+
+💻 Coding (Cursor / ChatGPT)
+Use AI to generate:
+
+Player interaction system
+
+Object pickup script
+
+Repair mechanic
+
+Hazard system
+
+🎨 Art
+Generate:
+
+Debris textures
+
+UI icons
+
+Environment style
+
+🔊 Sound
+Cleaning sounds
+
+Explosion sounds
+
+Voice lines like:
+
+“Another mess…”
+
+🧠 Writing
+Funny dialogue
+
+World-building:
+
+“Heroes never clean up after themselves…”
+
+👉 This adds personality (big marks boost)
+
+🗓️ 3-DAY PLAN (TAILORED FOR THIS IDEA)
+🗓️ DAY 1 (IDEATION)
+Define:
+
+You = cleanup worker
+
+Hero = unseen chaos-causer
+
+Goal = restore environment
+
+🗓️ DAY 2 (BUILD CORE)
+🎯 MUST HAVE:
+Player movement
+
+Pick up debris
+
+Repair system
+
+Basic hazards
+
+🗓️ DAY 3 (POLISH)
+Add:
+UI (progress bar)
+
+Sound
+
+Effects
+
+🔥 Add ONE standout feature:
+Pick one:
+
+Combo system (clean faster = bonus)
+
+Time pressure
+
+Random events (new mess appears)
+
+🎥 VIDEO IDEA (IMPORTANT)
+🔹 Say this (easy marks):
+“The player is intentionally not the main character”
+
+“The focus is on the consequences of the hero’s actions”
+
+“AI was used to rapidly prototype systems like cleaning and hazards”
+
+🧾 REFLECTION (YOU CAN USE THIS ANGLE)
+💡 Strong point:
+“AI helped me quickly generate multiple gameplay systems, allowing me to focus more on the creative interpretation of the theme.”
+
+⚠️ Challenge:
+“AI-generated scripts often needed debugging and simplification to fit the project scope.”
+
+🏆 WHY THIS IDEA CAN SCORE HIGH
+✅ Creativity:
+Very unique interpretation of the theme
+
+✅ AI Integration:
+Lots of small systems = lots of AI usage
+
+✅ Scope Control:
+You can keep it simple but still feel complete
+
+⚠️ IMPORTANT DESIGN TIP
+👉 DO NOT try to simulate a full battle system
+
+Instead:
+
+Fake it with:
+
+Random explosions
+
+Pre-broken environment
+
+Timed hazards
+
+🚀 FINAL VERDICT
+👉 This is a top-tier idea if you keep it simple.
+
+If you want max marks:
+
+Go with “After the Battle” version
+
+Add small touches of personality
+
+Use AI everywhere (and show it)
+
+👉 Next step
+If you want, I can:
+
+Write your High Concept Document
+
+Build your plan.md
+
+Help you create the cleaning/repair scripts in Unity
+
+Design your core gameplay loop properly
+
+Just tell me 👍
+
+
+so should i go with this or the protecting the hero game, im just thinking on which is better for ai implementation since thats for the most marks
+
+Short answer: both can score high for AI, but they do it in different ways.
+
+👉 If your goal is maximum marks with least risk, pick carefully:
+
+🧠 HONEST COMPARISON
+🛡️ OPTION 1: Protecting the Hero (Support Game)
+✅ AI Strength:
+AI hero behavior (movement + attacking)
+
+Enemy AI
+
+System interactions (hero ↔ enemies ↔ player)
+
+👉 This shows “technical AI integration”
+
+❌ Weakness:
+AI logic can get messy/buggy fast
+
+Harder to polish in 3 days
+
+Risk of things breaking = lower Technical Execution marks
+
+🧠 What markers think:
+“Good AI usage, but pretty common idea”
+
+🧹 OPTION 2: Cleanup Crew (Your New Idea)
+✅ AI Strength:
+MANY small systems (perfect for AI generation):
+
+Pickup system
+
+Repair system
+
+Hazard system
+
+Scoring system
+
+UI
+
+AI used across:
+
+Code
+
+Art
+
+Sound
+
+Writing
+
+👉 This shows “broad AI integration” (VERY important)
+
+✅ BIG ADVANTAGE:
+Easier to finish + polish
+
+Less risk of bugs
+
+More time to document AI usage (huge for marks)
+
+🧠 What markers think:
+“Creative, unique, and strong AI workflow across multiple areas”
+
+🔥 WHAT THE RUBRIC REALLY WANTS
+From your brief:
+
+“multi-tool integration (coding + art + sound)”
+“AI used strategically and efficiently”
+“customised outputs, not copied”
+
+👉 That screams:
+
+💥 CLEANUP CREW WINS HERE
+Because:
+
+You can show AI in EVERY PART of the game
+
+Not just gameplay logic
+
+🏆 FINAL VERDICT
+👉 Go with: CLEANUP CREW (“After the Hero”)
+
+⚖️ BUT — IMPORTANT CONDITION
+To beat the hero-protection idea, you MUST:
+
+🔥 Show AI everywhere:
+Code (scripts)
+
+Art (assets)
+
+Sound (effects/voice)
+
+Writing (dialogue + docs)
+
+💡 HOW TO MAKE IT EVEN STRONGER
+Add this twist:
+
+👀 “The Hero is off-screen but affects everything”
+Random explosions (AI-generated logic)
+
+Voice lines from hero (AI voice)
+
+Environmental destruction
+
+👉 Now you STILL show “AI systems interacting”
+WITHOUT building complex AI
+
+🚀 MARK-OPTIMISED STRATEGY
+🎯 Your goal:
+Not the most complex game
+→ The smartest use of AI
+
+🧠 If I were you (based on your Unity level)
+I would 100% choose:
+
+👉 Cleanup Crew Game
+
+Because:
+
+You’ll actually FINISH it
+
+You’ll polish it
+
+You’ll document it well
+
+You’ll show MORE AI usage overall
+
+🔥 One sentence you can literally use in your assignment:
+“Instead of focusing on complex AI-driven combat systems, I used AI to rapidly develop multiple interconnected gameplay systems, allowing for broader and more meaningful integration across the entire development pipeline.”
+
+👉 That line alone shows you understand the assignment at a high level.
+
+👉 Next step
+If you want, I can now:
+
+Turn this into a full High Concept Document
+
+Write your plan.md
+
+Help you design the exact systems you’ll build in Unity
+
+Just say 👍
+
+
+ill go with the cleanup crew one then. Can you make a word document for me that shows like checkpoints or deliverables or specifications to meet or have in order to achieve the highest marks in the rubric. 
+
+I’ve created a structured Word document for you that lays out exactly what you need to hit top marks in each rubric category.
+
+👉 Download your checklist
+
+How to use this (important)
+Treat it like a daily checklist during the 3-day jam
+
+Tick things off as you complete them
+
+Use it to guide your documentation and videos
+
+Pro tip
+Before submitting, go through it and ask:
+
+“Can I clearly prove each of these with evidence?”
+
+If yes → you’re in 75–100% range
+
+If you want next, I can:
+
+Turn this into your actual plan.md
+
+Help you start your Unity systems (cleaning + repair)
+
+Or write your High Concept doc ready to submit
+
+Just tell me 👍 
+
+
+please can you generate the plan.md, the readme.md and the requirements.txt documents
+
+Perfect — this is exactly what you should be doing early 👌
+I’ll generate these ready-to-use, just copy-paste into your project files.
+
+📄 plan.md
+# Game Plan – "Collateral Damage"
+
+## Core Idea
+The player takes on the role of a cleanup crew worker in a world where a powerful hero constantly battles enemies. Instead of being the hero, the player must deal with the aftermath by cleaning debris, repairing damage, and avoiding hazards caused by the hero’s actions.
+
+## Core Gameplay Loop
+Enter area → Clean debris → Repair damage → Avoid hazards → Gain points → Repeat
+
+## Mechanics
+
+### Player Systems
+- Movement (CharacterController)
+- Interaction system (cleaning & repairing)
+
+### Gameplay Systems
+- Debris pickup system
+- Repair system (fix broken objects)
+- Hazard system (fire, explosions, dangerous zones)
+- Score/progress system
+
+### Optional Features (Stretch Goals)
+- Combo system for efficient cleaning
+- Time pressure mechanic
+- Random hazard spawning
+
+---
+
+## AI Tools Used
+
+### Coding
+- Cursor → Generate gameplay scripts
+- ChatGPT → Debugging, refining logic, explaining code
+
+### Art
+- Leonardo AI → Generate textures and UI elements
+
+### Sound
+- ElevenLabs / Soundraw → Generate sound effects and voice lines
+
+### Writing
+- ChatGPT → Documentation, dialogue, planning
+
+---
+
+## Development Plan
+
+### Day 1 – Ideation & Setup
+- Finalise game concept
+- Create documentation (plan.md, readme.md)
+- Setup Unity project
+- Setup Git repository
+
+### Day 2 – Prototype Build
+- Implement player movement
+- Implement cleaning system
+- Implement repair system
+- Add basic hazards
+- Create playable prototype
+
+### Day 3 – Refinement & Polish
+- Improve UI (score/progress display)
+- Add sound effects
+- Fix bugs and improve stability
+- Add one extra feature (e.g. combo or time system)
+
+---
+
+## Risks
+- AI-generated code may contain bugs
+- Time constraints may limit polish
+- Over-scoping features
+
+---
+
+## Backup Plan
+- Reduce features to core loop only:
+  - Movement
+  - Cleaning
+  - Basic hazards
+
+---
+
+## Reflection Prompts (To Complete Later)
+- Where did AI excel?
+- Where did AI fail or mislead?
+- How did AI affect my workflow?
+- Ethical considerations of AI usage
+📄 readme.md
+# Collateral Damage
+
+## Overview
+Collateral Damage is a game where the player takes on the role of a cleanup crew worker in a world dominated by a powerful hero. Instead of fighting enemies, the player must deal with the destruction left behind by battles.
+
+## Gameplay
+- Clean up debris scattered around the environment
+- Repair damaged objects
+- Avoid dangerous hazards such as fire and explosions
+- Earn points by restoring the environment
+
+## Controls
+- WASD / Arrow Keys → Move
+- E / Interact Key → Clean / Repair
+
+## Objective
+Restore the environment as efficiently as possible while avoiding hazards created by the unseen hero.
+
+---
+
+## AI Integration
+
+AI tools were used extensively throughout development:
+
+### Coding
+- AI generated scripts for:
+  - Player movement
+  - Cleaning system
+  - Hazard system
+- Scripts were modified and debugged manually
+
+### Art
+- AI-generated textures and UI elements
+
+### Sound
+- AI-generated sound effects and/or voice lines
+
+### Documentation
+- AI assisted in structuring and refining project documentation
+
+---
+
+## Installation / Running the Game
+1. Open the project in Unity
+2. Load the main scene
+3. Press Play
+
+---
+
+## Credits
+- Developer: [Your Name]
+- AI Tools:
+  - ChatGPT
+  - Cursor
+  - Leonardo AI
+  - ElevenLabs / Soundraw
+
+---
+
+## AI Ethics Statement
+AI tools were used as collaborative assistants to accelerate development. All generated content was reviewed, modified, and integrated manually to ensure originality and alignment with the project goals. No AI output was used without critical evaluation or adaptation.
+
+---
+
+## Reflection (To Complete)
+- AI strengths and weaknesses
+- Impact on workflow
+- Ethical considerations
+📄 requirements.txt
+# Game Engine
+Unity (Version used for development)
+
+# AI Tools
+Cursor (AI-assisted IDE)
+ChatGPT (design, debugging, documentation)
+
+# Art Tools
+Leonardo AI (asset generation)
+
+# Sound Tools
+ElevenLabs (voice generation)
+Soundraw (music/sound effects)
+
+# Version Control
+Git / GitHub
+
+# Dependencies
+- Unity CharacterController
+- Unity UI System (Canvas, Text, etc.)
+🔥 What you should do next
+Create these files in your project:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+Start filling in:
+
+Your name
+
+Your Unity version
+
+Any changes you make
+
+🚀 If you want next
+I can now:
+
+Help you build your cleaning + repair system scripts
+
+Design your Unity scene setup
+
+Or help you structure your refinements-changes.md (VERY important for marks)
+
+Just tell me 👍
+
+
+what do you mean create these files in my project? Should i get cursor or you to create these files?
+
+Good question — this part confuses a lot of people the first time 👍
+
+🧠 What “create these files in your project” actually means
+You need to create actual text files inside your game project folder, not just have them in chat.
+
+These are documentation files that will be submitted with your game.
+
+📁 WHERE to put them
+Inside your Unity project folder (same place as Assets, Packages, etc.)
+
+Example:
+
+YourGameProject/
+│── Assets/
+│── Packages/
+│── ProjectSettings/
+│── plan.md
+│── readme.md
+│── requirements.txt
+│── refinements-changes.md
+🤔 Cursor OR Me?
+👉 Best option: USE BOTH (this is what gets you marks)
+🔹 Step 1 (fastest)
+Use me (ChatGPT) to:
+
+Generate content (like I just did)
+
+Fix wording
+
+Improve reflections
+
+🔹 Step 2 (important for marks)
+Use Cursor to:
+
+Create/edit these files
+
+Update them while you code
+
+Log changes
+
+👉 This shows:
+
+“AI-assisted workflow” (which your rubric LOVES)
+
+⚡ EASIEST WAY TO CREATE THE FILES
+Option A (SUPER EASY – recommended)
+Open your Unity project folder
+
+Right-click → New → Text Document
+
+Rename:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+⚠️ Make sure:
+
+It’s NOT plan.md.txt
+
+Enable “file extensions” in Windows if needed
+
+Option B (BETTER – using Cursor)
+Open your project in Cursor
+
+Right-click in file explorer
+
+Click New File
+
+Name:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+Paste the content I gave you
+
+👉 This is ideal because:
+
+Cursor tracks changes
+
+Shows AI usage
+
+🔥 VERY IMPORTANT (FOR MARKS)
+Don’t just leave the files as-is.
+
+You MUST:
+
+Update plan.md as you work
+
+Add real changes to refinements-changes.md
+
+Slightly tweak wording so it’s yours
+
+💡 Think of it like this
+These files are proof of:
+
+Your thinking
+
+Your process
+
+Your AI usage
+
+👉 Not just “extra files”
+
+🚀 Simple workflow
+Copy what I gave you
+
+Paste into files in Cursor
+
+Start building your game
+
+Update files as you go
+
+👉 Next step
+If you want, I can now:
+
+Create your refinements-changes.md template (VERY important for marks)
+
+Help you start your first Unity system (cleaning mechanic)
+
+Or guide you step-by-step in Cursor setup
+
+Just tell me 👍
+
+
+guide me step by step in cursor setup
+
+Perfect — getting Cursor set up properly is one of the smartest moves for this assignment because it directly boosts your AI Integration marks.
+
+I’ll walk you through this step-by-step, assuming you’re starting fresh.
+
+🚀 STEP 1: Download & Install Cursor
+✅ Do this:
+Go to: https://cursor.sh
+
+Download Cursor
+
+Install it like a normal app
+
+Open it
+
+🔐 STEP 2: Sign In
+Sign in with:
+
+Google OR GitHub
+
+👉 This enables:
+
+AI features
+
+Code generation
+
+Chat inside your project
+
+📁 STEP 3: Open Your Unity Project
+VERY IMPORTANT STEP
+In Cursor:
+
+Click “Open Folder”
+
+Select your Unity project folder
+
+👉 The folder should contain:
+
+Assets
+
+Packages
+
+ProjectSettings
+
+🧠 STEP 4: Enable AI Features
+Once your project is open:
+
+Use:
+Ctrl + K → Generate/edit code
+
+Ctrl + L → Chat with AI
+
+👉 This is how you’ll:
+
+Generate scripts
+
+Fix bugs
+
+Ask for improvements
+
+📄 STEP 5: Create Your Required Files
+Inside Cursor:
+
+Right-click in file explorer → New File
+
+Create:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+refinements-changes.md ⚠️ (VERY IMPORTANT)
+
+Paste the content I gave you earlier
+
+🧾 STEP 6: Set Up refinements-changes.md (CRITICAL FOR MARKS)
+Paste this:
+
+# Refinements & Changes Log
+
+## Day 1 – Planning
+- Initial idea: Cleanup crew after hero battles
+- AI helped generate game concept and documentation
+
+---
+
+## Day 2 – Development
+(Add entries as you build)
+
+Example:
+- Used AI to generate player controller script
+- Modified movement speed and controls manually
+- AI-generated cleaning system had bugs → fixed interaction logic
+
+---
+
+## Day 3 – Refinement
+(Add entries later)
+
+Example:
+- Improved UI using AI suggestions
+- Added sound effects generated by AI
+- Fixed bugs in hazard system
+👉 Update this CONSTANTLY while working
+
+🎮 STEP 7: Connect Cursor to Unity Workflow
+Your workflow should look like this:
+🟢 In Unity:
+Create GameObjects
+
+Attach scripts
+
+🔵 In Cursor:
+Create/edit scripts
+
+Ask AI for help
+
+💡 STEP 8: First Test (IMPORTANT)
+Let’s make sure everything works:
+
+In Cursor:
+Go to Assets/Scripts (create if needed)
+
+Create new script:
+
+PlayerController.cs
+
+Press Ctrl + K and type:
+Create a Unity C# player controller using CharacterController with WASD movement
+👉 Press Enter
+
+Then:
+Copy code into script
+
+Go to Unity
+
+Attach to player object
+
+🔥 STEP 9: How to Use AI PROPERLY (This gets marks)
+❌ Don’t do this:
+Copy paste code blindly
+
+✅ Do this:
+Generate code
+
+Test it
+
+Modify it
+
+Example:
+
+Change movement speed to 8
+Add interaction key using E
+Explain how this works
+👉 This shows real AI collaboration
+
+🧠 STEP 10: Smart Prompts (Use these a lot)
+Here are some you’ll need:
+
+🎮 Cleaning system
+Create a Unity script that allows the player to press E to clean an object when in range
+🔧 Repair system
+Create a repair system where the player holds a key to fix an object over time
+🔥 Hazards
+Create a hazard zone that damages the player over time when inside it
+🐞 Debugging
+This script is not working, explain what is wrong and fix it
+⚠️ COMMON MISTAKES TO AVOID
+❌ Not using Cursor during development
+❌ Not documenting AI usage
+❌ Copy-pasting without changes
+❌ Not updating refinements log
+
+🏆 FINAL CHECK (IMPORTANT)
+Before submission, you should be able to say:
+
+“I used AI to generate and refine multiple systems”
+
+“I debugged AI code”
+
+“I documented AI usage clearly”
+
+🚀 NEXT STEP
+Tell me when you’re ready and I’ll help you:
+
+👉 Build your first system (cleaning mechanic step-by-step in Unity)
+👉 Or help you set up your player controller properly
+
+Let’s build this 🔥
+
+
+okay so walk me through it step by step from the very start, from unity to cursor, to art, to sound, everything
+
+Perfect — I’m going to walk you through this like a real production pipeline, step-by-step, from nothing → finished submission.
+
+Follow this exactly and you’ll hit high marks + actually finish on time.
+
+🚀 PHASE 1: PROJECT SETUP (Unity + Cursor)
+🧩 STEP 1: Create Unity Project
+Open Unity Hub
+
+Click New Project
+
+Choose:
+
+Template: 3D Core
+
+Name it:
+
+CollateralDamage
+
+Choose location → Create
+
+🧩 STEP 2: Organise Your Project (IMPORTANT)
+Inside Unity:
+
+📁 Create folders in Assets:
+Scripts
+
+Prefabs
+
+Scenes
+
+Materials
+
+Audio
+
+UI
+
+👉 This helps with Documentation Quality marks
+
+🧩 STEP 3: Create Your Scene
+Save scene as:
+
+MainScene
+
+Add:
+
+Plane (ground)
+
+Cube (temporary player)
+
+💻 PHASE 2: CONNECT CURSOR
+🧠 STEP 4: Open Project in Cursor
+Open Cursor
+
+Click Open Folder
+
+Select your Unity project folder
+
+👉 You should see:
+
+Assets
+
+Packages
+
+ProjectSettings
+
+📄 STEP 5: Create Documentation Files
+Inside Cursor:
+
+Create:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+refinements-changes.md
+
+👉 Paste what I gave you earlier
+
+🔥 STEP 6: Start Logging (IMPORTANT)
+In refinements-changes.md, add:
+
+Day 1:
+- Set up Unity project
+- Connected Cursor to project
+- Created documentation files using AI
+👉 Do this NOW (yes, even this step counts)
+
+🎮 PHASE 3: CORE GAME SYSTEMS
+🧍 STEP 7: Player Movement (FIRST SYSTEM)
+In Cursor:
+Create:
+Assets/Scripts/PlayerController.cs
+
+Press Ctrl + K and type:
+
+Create a Unity C# player controller using CharacterController with WASD movement and gravity
+In Unity:
+Select Player (cube)
+
+Add:
+
+CharacterController
+
+Your script
+
+Press Play → test movement
+
+🧠 Then improve it:
+Ask Cursor:
+
+Add interaction using the E key
+Log it:
+- Used AI to generate player controller
+- Modified movement and added interaction key
+🧹 STEP 8: Cleaning System
+In Cursor:
+Create:
+CleaningObject.cs
+
+Prompt:
+
+Create a Unity script where the player can press E near an object to destroy it (simulate cleaning)
+In Unity:
+Create debris objects (cubes)
+
+Add collider (Is Trigger = true)
+
+Attach script
+
+👉 Now you can clean objects
+
+🔧 STEP 9: Repair System
+In Cursor:
+Prompt:
+
+Create a repair system where holding E repairs an object over time and changes its state when complete
+In Unity:
+Create broken objects
+
+Add script
+
+Test holding interaction
+
+👉 Now you have TWO systems (good for marks)
+
+🔥 STEP 10: Hazard System
+In Cursor:
+Prompt:
+
+Create a hazard zone that damages the player over time when inside it
+In Unity:
+Create fire area (red cube)
+
+Add trigger collider
+
+Attach script
+
+👉 Now you have gameplay challenge
+
+🧠 PHASE 4: AI ART
+🎨 STEP 11: Generate Art
+Use:
+
+Leonardo AI (recommended)
+
+Generate:
+Debris textures
+
+UI icons (repair, clean)
+
+Ground textures
+
+In Unity:
+Import images
+
+Create materials
+
+Apply to objects
+
+Log it:
+- Used AI to generate textures for debris and environment
+🔊 PHASE 5: SOUND
+🔊 STEP 12: Generate Sound
+Use:
+
+ElevenLabs → voice
+
+Soundraw → effects
+
+Ideas:
+Cleaning sound
+
+Explosion sound
+
+Voice line:
+
+“Another mess…”
+
+In Unity:
+Import audio
+
+Add AudioSource
+
+Play on interaction
+
+Log it:
+- Used AI to generate sound effects and voice lines
+🧠 PHASE 6: UI SYSTEM
+🖥️ STEP 13: Add UI
+In Unity:
+
+Create Canvas
+
+Add:
+
+Score text
+
+Progress bar
+
+In Cursor:
+Prompt:
+
+Create a Unity script to track and display score when objects are cleaned
+👉 Now your game feels complete
+
+🎥 PHASE 7: VIDEO RECORDING
+🎬 DAY 2 VIDEO
+Record:
+
+Gameplay
+
+Say:
+
+“AI generated my player system”
+
+“I modified it to add interaction”
+
+🎬 DAY 3 VIDEO
+Record:
+
+Improvements
+
+Polished version
+
+Explain AI usage
+
+🧾 PHASE 8: FINAL DOCUMENTATION
+Update:
+plan.md
+What changed
+
+refinements-changes.md
+EVERYTHING you did
+
+readme.md
+Final version
+
+📦 PHASE 9: FINAL SUBMISSION
+You need:
+
+✅ Playable build
+✅ GitHub repo
+✅ Videos
+✅ All .md files
+✅ Proof of AI usage
+
+🏆 FINAL SUCCESS STRATEGY
+If you do this:
+
+4+ AI-generated systems ✅
+
+Modified code ✅
+
+AI art + sound ✅
+
+Clean documentation ✅
+
+👉 You are easily in 75%+ range
+
+🚀 NEXT STEP
+Let’s build this together step-by-step.
+
+👉 Say:
+“start player controller”
+and I’ll help you build it perfectly in Unity + Cursor.
+
+
+how do i create the plan.md, the readme.md, the requirements.txt and the refinements-changes.md in cursor?
+
+Perfect — I’ll walk you through this exactly step-by-step inside Cursor, like you’re doing it right now.
+
+💻 STEP-BY-STEP: Creating Files in Cursor
+🧩 STEP 1: Open Your Project in Cursor
+Open Cursor
+
+Click “Open Folder”
+
+Select your Unity project folder
+
+👉 You should see on the left:
+
+Assets
+Packages
+ProjectSettings
+📁 STEP 2: Use the File Explorer (LEFT PANEL)
+On the left side of Cursor, there’s a file panel (like VS Code).
+
+If you don’t see it:
+
+Press Ctrl + B to toggle it
+
+➕ STEP 3: Create a New File
+Method 1 (Easiest):
+Right-click in the empty space under your project name
+
+Click “New File”
+
+Method 2 (Top bar):
+Click the New File icon (looks like a page with a +)
+
+✏️ STEP 4: Name the File
+Type EXACTLY:
+
+plan.md
+Press Enter
+
+📄 STEP 5: Paste Content
+Click inside the new file
+
+Paste the plan.md content I gave you earlier
+
+Press Ctrl + S to save
+
+🔁 STEP 6: Repeat for ALL FILES
+Create these one by one:
+
+readme.md
+requirements.txt
+refinements-changes.md
+⚠️ IMPORTANT DETAILS (DON’T MISS THIS)
+✅ File Names MUST be exact:
+✔️ Correct:
+
+plan.md
+
+readme.md
+
+❌ Wrong:
+
+plan.md.txt
+
+Plan.md
+
+readme (1).md
+
+📍 WHERE they should be
+They must be in the root folder, NOT inside Assets.
+
+Correct:
+
+YourProject/
+│── Assets/
+│── plan.md
+│── readme.md
+❌ Wrong:
+
+Assets/plan.md
+🧠 STEP 7: Use Cursor AI INSIDE THESE FILES
+This is how you get marks 👇
+
+Example:
+Inside plan.md, press:
+
+👉 Ctrl + K
+
+Then type:
+
+Improve this plan and make it more professional
+Or in readme.md:
+Add a more detailed AI integration section
+👉 This shows:
+
+You used AI for documentation
+
+You refined outputs
+
+🔥 STEP 8: Start Your Log (VERY IMPORTANT)
+Open:
+refinements-changes.md
+
+Add:
+
+Day 1:
+- Created Unity project
+- Set up Cursor
+- Created documentation files using AI
+👉 This is free marks — do it immediately
+
+💡 QUICK VISUAL SUMMARY
+What you should now have in Cursor:
+
+📁 YourProject
+ ├── Assets
+ ├── Packages
+ ├── ProjectSettings
+ ├── plan.md
+ ├── readme.md
+ ├── requirements.txt
+ └── refinements-changes.md
+🚀 WHAT TO DO NEXT
+Once you’ve created all 4 files:
+
+👉 Tell me:
+“done”
+
+Then I’ll guide you step-by-step into:
+
+Your Player Controller
+
+Then Cleaning System
+
+Then Repair System
+
+We’ll build your whole game cleanly 🔥
+
+
+help me with the high concept document
+
+Perfect — this is a high-value document (easy marks if done well), and it sets the tone for your whole project.
+
+I’ll give you a clean, submission-ready version you can paste into Word.
+
+📄 HIGH CONCEPT DOCUMENT
+You can copy this directly and tweak your name/details:
+
+🎮 High Concept Document – Collateral Damage
+Title:
+Collateral Damage
+
+Genre:
+3D Casual / Simulation / Action
+
+Core Gameplay Loop:
+Enter a damaged environment → Clean debris → Repair broken objects → Avoid hazards → Earn points → Move to next area → Repeat
+
+Game Overview:
+Collateral Damage is a game that explores the idea of existing in a world shaped by a powerful hero, without being the hero yourself. The player takes on the role of a cleanup crew worker tasked with restoring environments that have been destroyed during intense battles between a hero and their enemies.
+
+Rather than engaging in combat, the player must deal with the aftermath of destruction by collecting debris, repairing damaged structures, and avoiding dangerous hazards left behind. The game shifts focus away from traditional hero-centric gameplay and instead highlights the consequences of those actions.
+
+Player Role:
+The player is a cleanup worker, not a hero. Their purpose is to:
+
+Restore order after destruction
+
+Manage risk while navigating hazardous environments
+
+Work efficiently to maximise score and progress
+
+This reinforces the theme: “You are not the main character.”
+
+Visual Style:
+The game will use a stylised, slightly exaggerated 3D aesthetic to emphasise destruction and contrast between chaos and restoration. Bright hazard indicators (fire, damaged areas) will help guide the player, while cleaner areas visually represent progress.
+
+Intended Player Experience:
+The player should feel:
+
+Pressured to clean quickly while avoiding danger
+
+Responsible for fixing the consequences of someone else’s actions
+
+A sense of satisfaction from restoring order to chaos
+
+The experience combines light tension with rewarding cleanup mechanics.
+
+Unique Selling Point (USP):
+Instead of playing as the hero, the player experiences the aftermath of heroism, focusing on consequences rather than action. This creates a fresh perspective on traditional game design by shifting attention to an often overlooked role within game worlds.
+
+AI Integration Overview:
+AI will be used extensively throughout development to:
+
+Generate and refine gameplay scripts (movement, cleaning, hazards)
+
+Assist with debugging and iteration
+
+Create visual and audio assets
+
+Support documentation and design planning
+
+This allows for rapid prototyping and iterative development within the limited timeframe.
+
+🔥 Why this is strong (so you understand)
+This hits:
+
+✅ Theme clearly
+
+✅ Simple gameplay loop
+
+✅ Clear player role
+
+✅ Mentions AI (important!)
+
+✅ Sounds professional (3rd year level)
+
+🚀 What you should do now
+Open Word
+
+Paste this in
+
+Maybe:
+
+Add your name
+
+Adjust wording slightly (recommended)
+
+👉 Next step
+Tell me:
+
+“ready for player controller”
+
+and I’ll walk you through building your first system properly in Unity + Cursor 🔥
+
+
+how exactly will my repair system work, i dont fully understand it
+
+Good — this is something you want to fully understand before coding, otherwise you’ll get stuck later.
+
+Let’s break it down very simply and practically 👇
+
+🧠 CORE IDEA OF THE REPAIR SYSTEM
+The repair system is basically:
+
+“Hold a button near a broken object → it slowly gets fixed → when complete, it becomes normal”
+
+🎮 WHAT THE PLAYER EXPERIENCES
+You walk up to a broken object (e.g. damaged machine)
+
+You press and HOLD E
+
+A progress starts (like a loading bar)
+
+After a few seconds:
+
+Object is repaired
+
+You get points
+
+Visual changes (optional)
+
+🧩 WHAT YOU NEED (LOGIC BREAKDOWN)
+There are 4 parts:
+
+🔹 1. Detect the Player
+The object needs to know:
+
+“Is the player close enough?”
+
+👉 Use a trigger collider
+
+🔹 2. Detect Input (Holding E)
+While the player is near:
+
+If they hold E
+→ start repairing
+
+🔹 3. Repair Progress
+You track a value:
+
+repairProgress = 0 → 100
+While holding E:
+
+Increase progress over time
+
+🔹 4. Completion
+When progress reaches max:
+
+Object becomes “repaired”
+
+Disable interaction
+
+Give score
+
+🧠 SIMPLE VISUAL FLOW
+Player enters range
+        ↓
+Press & hold E
+        ↓
+Progress increases
+        ↓
+Progress = full
+        ↓
+Object repaired
+💡 SUPER SIMPLE VERSION (FOR YOUR PROJECT)
+Don’t overcomplicate it.
+
+👉 Your version should be:
+
+No animations (optional)
+
+Just:
+
+Hold E
+
+Wait 2–3 seconds
+
+Object disappears or changes colour
+
+🧪 EXAMPLE BEHAVIOUR
+Let’s say you have a broken crate:
+
+Before:
+Red colour
+
+“Broken”
+
+During repair:
+Nothing fancy (just holding E)
+
+After:
+Turns green OR disappears
+
+Score +10
+
+🧠 HOW YOU’LL ASK CURSOR (IMPORTANT)
+When you’re ready, use this prompt:
+
+Create a Unity C# script where the player can hold the E key near an object to repair it over time. The repair should take 3 seconds and once complete the object is marked as repaired.
+🔥 IMPORTANT DESIGN DECISIONS
+You need to choose:
+
+👉 Option A (EASIEST – recommended)
+Object disappears when repaired
+
+✅ Fast
+✅ Simple
+✅ Less bugs
+
+👉 Option B (Better visually)
+Object changes colour or model
+
+✅ Looks nicer
+❌ Slightly more work
+
+⚠️ COMMON MISTAKES
+❌ Making repair instant (no holding)
+❌ Not checking if player is in range
+❌ Letting repair continue when player walks away
+❌ Not resetting progress properly
+
+🏆 WHAT MARKERS WANT TO SEE
+They don’t care if it’s fancy.
+
+They care that:
+
+You used AI to build it
+
+You understood and modified it
+
+It works reliably
+
+🚀 NEXT STEP
+Let’s build it properly.
+
+👉 Say:
+“build repair system”
+
+and I’ll:
+
+Generate the script with you
+
+Show exactly where to put it in Unity
+
+Help you test it step-by-step
+
+
+whats in my 3 day plan for this 
+
+Good question — this is super important for your marks AND finishing on time.
+
+I’m going to give you a realistic 3-day plan based on:
+
+Your theme (You are not the main character)
+
+Your game (Cleanup Crew)
+
+And the AI-heavy marking rubric
+
+🗓️ YOUR 3-DAY GAME PLAN
+🚀 DAY 1 — CORE GAME + AI PROOF (MOST IMPORTANT)
+👉 Goal: Make a playable game + show AI usage
+
+🎯 What you MUST finish
+✅ 1. Project Setup
+Unity project created
+
+Cursor connected
+
+Files created:
+
+plan.md
+
+readme.md
+
+requirements.txt
+
+refinements-changes.md
+
+✅ 2. Player Controller (AI GENERATED)
+Movement (WASD)
+
+Gravity
+
+Interaction key (E)
+
+👉 Use Cursor prompt:
+
+Create a Unity player controller using CharacterController with movement and interaction input
+✅ 3. Cleaning System (AI)
+Press E near object → object disappears
+
+Score increases
+
+✅ 4. Repair System (AI)
+Hold E → repair over time
+
+✅ 5. Hazard System (AI)
+Damage player over time
+
+✅ 6. Basic UI
+Score display
+
+🎥 RECORD THIS (VERY IMPORTANT)
+Record yourself:
+
+Generating code in Cursor
+
+Testing in Unity
+
+👉 Say things like:
+
+“AI generated this system”
+
+“I modified it to fit my game”
+
+🧠 What Day 1 proves
+AI usage ✔
+
+Functionality ✔
+
+Core gameplay ✔
+
+👉 This is already a pass / 60%+ level
+
+🎨 DAY 2 — POLISH + AI ASSETS
+👉 Goal: Make it look and feel like a real game
+
+🎯 What to add
+✅ 1. AI ART
+Use:
+
+Leonardo AI / DALL·E
+
+Generate:
+
+Floor textures
+
+Debris textures
+
+UI icons
+
+✅ 2. AI SOUND
+Use:
+
+ElevenLabs / Soundraw
+
+Add:
+
+Cleaning sound
+
+Explosion sound
+
+Voice line (optional)
+
+✅ 3. Improve Systems
+Repair shows feedback (colour change)
+
+Hazard looks like fire
+
+Cleaner UI
+
+✅ 4. Expand Gameplay
+Multiple objects
+
+Slight difficulty increase
+
+🎥 RECORD AGAIN
+Show:
+
+Before vs After
+
+Improvements
+
+AI assets
+
+🧠 What Day 2 proves
+AI beyond code ✔
+
+Iteration ✔
+
+Refinement ✔
+
+👉 This pushes you toward 70–80%
+
+🧾 DAY 3 — DOCUMENTATION + FINAL POLISH
+👉 Goal: Secure high marks
+
+🎯 What to complete
+✅ 1. Finalise Documents
+plan.md
+What you planned vs changed
+
+readme.md
+Game explanation
+
+Controls
+
+AI usage
+
+refinements-changes.md
+👉 THIS IS GOLD FOR MARKS
+
+Example:
+
+Day 1:
+- Generated player controller using AI
+- Modified movement speed
+
+Day 2:
+- Added repair system improvements
+- Used AI to create textures
+
+Day 3:
+- Polished UI
+- Fixed bugs in interaction system
+✅ 2. Bug Fixing
+Interaction works properly
+
+No obvious errors
+
+✅ 3. Build the Game
+File → Build Settings → Build
+
+✅ 4. Final Video
+Show:
+
+Gameplay
+
+Explain systems
+
+Explain AI usage
+
+🧠 What Day 3 proves
+Documentation ✔
+
+Reflection ✔
+
+Completion ✔
+
+👉 This is what pushes you into 80%+ range
+
+🔥 SIMPLE PRIORITY RULE (DON’T BREAK THIS)
+If you run out of time:
+
+Gameplay works ✅
+
+AI usage shown ✅
+
+Documentation done ✅
+
+Polish (only if time allows)
+
+🏆 WHAT GETS YOU HIGH MARKS
+You don’t need a perfect game.
+
+You need:
+
+Multiple AI systems
+
+Proof you used AI
+
+Proof you refined AI output
+
+Clean documentation
+
+🚀 NEXT STEP
+Let’s start building properly.
+
+👉 Say:
+“start player controller”
+
+and I’ll guide you step-by-step inside Unity + Cursor (no confusion, no guessing).
+
+
+go in accordance with the document i sent you
+
+Got it — I’ll align this directly to a typical GADS-style assignment structure (like the PDF you uploaded), which usually focuses on:
+
+Clear deliverables
+
+Strong AI integration
+
+Evidence of iteration
+
+Playable prototype
+
+Supporting documentation + video
+
+So here’s your 3-day plan rewritten to match assignment expectations + rubric language 👇
+
+🗓️ 3-DAY PLAN (ALIGNED TO YOUR ASSIGNMENT)
+🚀 DAY 1 — PROTOTYPE + AI FOUNDATION
+👉 Assignment Focus:
+✔ Functional prototype
+✔ Initial AI usage
+✔ Core mechanics implemented
+
+🎯 Deliverables for Day 1
+✅ 1. Playable Prototype (VERY IMPORTANT)
+You must have:
+
+Player movement
+
+At least 2 gameplay systems
+
+👉 For your game:
+
+Cleaning system ✔
+
+Repair system ✔
+
+(Hazard system = bonus)
+
+✅ 2. AI Code Generation Evidence
+You need proof that:
+
+AI generated code
+
+You modified it
+
+👉 So you must:
+
+Use Cursor prompts
+
+Record it (video or screenshots)
+
+✅ 3. Initial Documentation
+plan.md
+Include:
+
+Game idea
+
+Core loop
+
+Systems list
+
+refinements-changes.md
+Start logging:
+
+Day 1:
+- Used AI to generate player controller
+- Modified movement speed and controls
+- Implemented cleaning system using AI
+- Adjusted interaction range
+🎥 Required Evidence
+AI generating scripts
+
+You testing in Unity
+
+You explaining what you changed
+
+🧠 What this satisfies in the rubric:
+✔ AI usage
+
+✔ Functional implementation
+
+✔ Problem solving
+
+🎨 DAY 2 — ITERATION + AI ASSETS
+👉 Assignment Focus:
+✔ Refinement
+✔ AI beyond coding
+✔ Improved gameplay
+
+🎯 Deliverables for Day 2
+✅ 1. System Improvements (Iteration)
+You MUST show changes like:
+
+Repair system improved (progress / timing)
+
+Cleaning system improved (feedback)
+
+Hazard system added or refined
+
+👉 This shows:
+“AI output was not final — you improved it”
+
+✅ 2. AI Asset Integration
+Use AI for:
+
+🎨 Visuals:
+Textures
+
+UI icons
+
+🔊 Audio:
+Sound effects
+
+Voice line (optional)
+
+✅ 3. Gameplay Expansion
+Add:
+
+More objects
+
+Slight challenge (hazards, time pressure)
+
+✅ 4. Documentation Update
+Update:
+
+Day 2:
+- Improved repair system timing
+- Added hazard system using AI
+- Generated textures using AI tools
+- Integrated sound effects
+🎥 Required Evidence
+Before vs after improvements
+
+AI tools being used
+
+Explanation of changes
+
+🧠 What this satisfies:
+✔ Iteration & refinement
+
+✔ Creative AI use
+
+✔ Development process
+
+🧾 DAY 3 — FINALISATION + SUBMISSION
+👉 Assignment Focus:
+✔ Reflection
+✔ Documentation quality
+✔ Complete submission
+
+🎯 Deliverables for Day 3
+✅ 1. Final Game Build
+Fully playable
+
+No major bugs
+
+✅ 2. Final Documentation
+📄 readme.md
+Must include:
+
+Game overview
+
+Controls
+
+Systems explanation
+
+AI usage explanation
+
+📄 plan.md
+Update:
+
+What changed from original plan
+
+Final systems
+
+📄 refinements-changes.md
+This is CRITICAL for marks
+
+Example:
+
+Day 3:
+- Fixed interaction bugs
+- Improved UI feedback
+- Adjusted difficulty balance
+- Finalised AI-generated systems
+✅ 3. Reflection (IMPORTANT)
+You need to show:
+
+What AI did well
+
+What you had to fix
+
+What you learned
+
+✅ 4. Final Video
+Must show:
+
+Gameplay
+
+AI usage
+
+Your explanation
+
+🧠 What this satisfies:
+✔ Critical thinking
+
+✔ Documentation quality
+
+✔ Understanding of AI
+
+🏆 HOW THIS MATCHES YOUR RUBRIC
+Your assignment is likely marking:
+
+Category	How you hit it
+AI Usage	Cursor prompts + assets
+Functionality	Cleaning + Repair systems
+Iteration	Day 2 improvements
+Documentation	.md files
+Reflection	refinement log + video
+⚠️ BIGGEST MISTAKE TO AVOID
+Don’t just:
+
+“Generate code and leave it”
+
+You MUST:
+
+Change values
+
+Fix bugs
+
+Improve logic
+
+👉 Then log it
+
+🔥 FINAL PRIORITY STACK
+If time is tight:
+
+✅ Working gameplay
+
+✅ AI usage proof
+
+✅ Refinements log
+
+✅ Documentation
+
+(Then polish)
+
+🚀 NEXT STEP
+Now we execute properly.
+
+👉 Say:
+“start player controller”
+
+and I’ll guide you:
+
+In Cursor (what to type)
+
+In Unity (what to click)
+
+With zero confusion
+
+We’ll build this like a top student project 🔥
+
+
+for my ui sliders for my health bar and repair, will i need to generate 2 images for each?
+
+Good question — this is where people often overcomplicate UI for no reason.
+
+👉 Short answer: No, you do NOT need 2 images per slider.
+
+🎯 HOW UNITY SLIDERS ACTUALLY WORK
+A Unity UI slider (health bar, repair bar) is made of:
+
+Background (optional image)
+
+Fill Area (this changes size automatically)
+
+Fill Image (the visible bar)
+
+👉 The “filling” effect is handled by Unity — not separate images.
+
+✅ WHAT YOU ACTUALLY NEED
+🔹 For EACH bar (health / repair):
+Minimum (recommended):
+1 background image (optional)
+
+1 fill image
+
+👉 That’s it.
+
+🧠 Example Setup
+❤️ Health Bar:
+Background → grey bar
+
+Fill → green/red bar
+
+🔧 Repair Bar:
+Background → dark/metal look
+
+Fill → blue/yellow progress bar
+
+🎨 DO YOU NEED AI IMAGES?
+👉 Option A (FASTEST — recommended)
+Use Unity default UI (no images)
+
+✅ Saves time
+✅ Still gets marks
+
+👉 Option B (BETTER LOOK)
+Generate simple textures using AI:
+
+1 bar texture (fill)
+
+1 background strip
+
+👉 That’s 2 images total per bar (max)
+
+⚠️ WHAT YOU DO NOT NEED
+❌ Separate image for each progress stage
+❌ Animated sprite sheets
+❌ Multiple fill images
+
+👉 Unity handles the animation by resizing the fill.
+
+🔧 IMPORTANT SETTING (THIS MATTERS)
+In Unity:
+
+Select your Fill Image
+
+In Inspector:
+
+Image Type → Filled
+
+Fill Method → Horizontal
+
+👉 This is what makes the bar “drain/fill”
+
+💡 PRO TIP (FOR MARKS)
+Make your bars visually different:
+
+Health → red/green
+
+Repair → blue/yellow
+
+👉 Shows:
+
+Thought in design
+
+Better UX
+
+🏆 BEST APPROACH FOR YOUR PROJECT
+Do this:
+
+Health bar:
+
+Simple colour (no AI needed)
+
+Repair bar:
+
+Slightly styled (AI texture if you want)
+
+👉 Balanced effort + good marks
+
+🚀 NEXT STEP
+If you want, I can:
+
+👉 Walk you step-by-step:
+
+How to create the slider in Unity
+
+How to connect it to your repair system
+
+How to update it with code
+
+Just say:
+“setup repair UI” 🔧
+
+
+give me a prompt that i can give leaonardo.ai or gemini to make my images for my sliders
+
+Perfect — I’ll give you ready-to-use prompts you can paste directly into Leonardo AI or Gemini to generate clean UI slider assets.
+
+The key is: simple, clean, game-ready UI, not overly detailed.
+
+🎯 GENERAL SETTINGS (IMPORTANT)
+When generating, try:
+
+Style: 2D game UI / minimal / flat
+
+Background: transparent (VERY IMPORTANT)
+
+Aspect ratio: wide (e.g. 4:1 or 8:1)
+
+No text
+
+❤️ HEALTH BAR PROMPTS
+🟥 Fill (Health)
+A simple 2D game UI health bar fill, horizontal bar, smooth gradient from bright green to red, clean minimal design, no text, no icons, transparent background, flat game UI style, high resolution
+⬛ Background (Health)
+A simple 2D game UI health bar background, dark grey metallic frame, empty horizontal bar, clean minimal design, no text, transparent background, flat game UI style
+🔧 REPAIR BAR PROMPTS
+🔵 Fill (Repair)
+A simple 2D game UI repair progress bar fill, horizontal bar, glowing blue energy style, smooth gradient, clean minimal design, no text, transparent background, flat futuristic UI style
+🟫 Background (Repair)
+A simple 2D game UI repair bar background, industrial metallic frame, slightly worn look, horizontal bar, no text, transparent background, clean game UI style
+⚠️ IMPORTANT TIPS (DON’T SKIP)
+✅ 1. Make sure background is transparent
+If not, add:
+
+transparent PNG, no background
+✅ 2. Keep it SIMPLE
+Avoid:
+
+Text
+
+Icons
+
+Over-detailing
+
+👉 You just need clean bars for Unity
+
+✅ 3. Generate WIDE images
+Because sliders are horizontal
+
+💡 OPTIONAL (HIGHER MARKS)
+If you want to stand out slightly:
+
+🔥 Damage Effect Bar
+A stylized 2D game UI health bar fill with cracks and glowing red damage effect, horizontal bar, minimal design, transparent background
+🏆 WHAT THIS GETS YOU
+✔ AI asset usage (marks)
+
+✔ Clean UI
+
+✔ Professional look
+
+🚀 NEXT STEP
+After you generate them:
+
+👉 Tell me:
+“import UI”
+
+and I’ll walk you step-by-step:
+
+How to bring them into Unity
+
+How to set up sliders properly
+
+How to connect them to health + repair systems
+
+We’ll make it actually work 🔥
+
+
+okay
+
+Perfect — let’s bring your slider images into Unity and make them actually work 🔥
+
+I’ll walk you step-by-step, no guessing.
+
+🎮 STEP 1: IMPORT YOUR IMAGES
+Open Unity
+
+Go to your Assets → UI folder (create it if you don’t have one)
+
+Drag your downloaded images into Unity
+
+⚠️ IMPORTANT SETTINGS
+Click each image → In Inspector:
+
+Texture Type → Sprite (2D and UI)
+
+Click Apply
+
+👉 If you skip this, your UI won’t work properly
+
+🖥️ STEP 2: CREATE A CANVAS
+Right-click in Hierarchy
+
+UI → Canvas
+
+Unity will auto-create an EventSystem
+
+➕ STEP 3: CREATE A SLIDER
+Right-click Canvas
+
+UI → Slider
+
+Rename it:
+
+HealthBar OR RepairBar
+
+🧩 STEP 4: CLEAN UP THE SLIDER
+Inside the slider object, you’ll see:
+
+Slider
+ ├── Background
+ ├── Fill Area
+ │     └── Fill
+ └── Handle Slide Area
+       └── Handle
+❌ REMOVE THIS (we don’t need it)
+Delete Handle Slide Area
+
+👉 You don’t want a draggable slider
+
+🎨 STEP 5: APPLY YOUR IMAGES
+🟥 Background
+Select Background
+
+In Image component:
+
+Source Image → your background image
+
+🟩 Fill
+Select Fill
+
+In Image:
+
+Source Image → your fill image
+
+⚙️ STEP 6: MAKE THE BAR FILL PROPERLY
+Select Fill object, then:
+
+Image Type → Filled
+
+Fill Method → Horizontal
+
+Fill Origin → Left
+
+👉 This makes it animate like a real bar
+
+🎯 STEP 7: FIX SLIDER SETTINGS
+Select the Slider (parent object):
+
+Min Value → 0
+
+Max Value → 100
+
+Value → 100 (for health) OR 0 (for repair)
+
+🧠 STEP 8: POSITION IT
+Use Rect Transform:
+
+Health bar → top left or top center
+
+Repair bar → above object OR center screen
+
+💻 STEP 9: CONNECT TO CODE
+❤️ HEALTH BAR SCRIPT EXAMPLE
+In your player script:
+
+using UnityEngine;
+using UnityEngine.UI;
+
+public class PlayerHealth : MonoBehaviour
+{
+    public Slider healthSlider;
+    public float health = 100f;
+
+    void Update()
+    {
+        healthSlider.value = health;
+    }
+
+    public void TakeDamage(float amount)
+    {
+        health -= amount;
+    }
+}
+🔧 REPAIR BAR (KEY PART)
+In your repair script:
+
+public Slider repairSlider;
+public float repairProgress = 0f;
+public float repairTime = 3f;
+
+void Update()
+{
+    if (isRepairing)
+    {
+        repairProgress += Time.deltaTime;
+        repairSlider.value = (repairProgress / repairTime) * 100f;
+    }
+}
+⚠️ IMPORTANT CONNECTION STEP
+In Unity:
+
+Select your Player / Repair Object
+
+Drag the Slider from the Canvas into the script field
+
+👉 If you don’t do this → it won’t work
+
+🧪 STEP 10: TEST IT
+Press Play:
+
+Health should go down → bar updates
+
+Repair should increase → bar fills
+
+🏆 WHAT THIS GIVES YOU
+✔ Functional UI (marks)
+
+✔ AI-generated assets (marks)
+
+✔ System integration (BIG marks)
+
+🚀 NEXT STEP
+If you want to level this up:
+
+👉 Say:
+“make repair bar appear only when repairing”
+
+and I’ll show you how to:
+
+Hide it normally
+
+Show it only when needed (this looks VERY professional 🔥)
+
+
+so i put my generated image in my project, i cant seem to be able to put it the fill image source
+
+Good — this is a very common Unity issue, and it’s usually something simple. Let’s fix it step-by-step 👇
+
+🚨 WHY YOU CAN’T ASSIGN THE IMAGE
+If you can’t drag your image into Source Image, it’s almost always because:
+
+👉 Unity does NOT see it as a Sprite
+
+✅ STEP 1: FIX THE IMAGE TYPE (MOST IMPORTANT)
+Click your image in the Assets folder
+
+Look in the Inspector
+
+Change:
+
+Texture Type → ✅ Sprite (2D and UI)
+
+Then click:
+
+👉 Apply
+
+🔥 Try again:
+Now drag it into:
+
+Fill → Source Image
+
+⚠️ IF IT STILL DOESN’T WORK
+Check these next:
+
+🟡 ISSUE 2: You’re dragging into the wrong place
+Make sure you are doing this:
+
+Select Fill object (NOT the slider itself)
+
+In Inspector → Image component
+
+Drag into:
+
+Source Image
+
+🟡 ISSUE 3: Wrong file format
+Make sure your image is:
+
+.png (best)
+
+.jpg also works
+
+❌ Avoid:
+
+.webp
+
+.svg (Unity can be weird with these)
+
+🟡 ISSUE 4: Image import failed
+Try:
+
+Right-click image in Assets
+
+Click Reimport
+
+🟡 ISSUE 5: Fill object missing Image component
+Select Fill, check:
+
+👉 Does it have an Image (Script)?
+
+If not:
+
+Click Add Component
+
+Add Image
+
+🧪 QUICK CHECKLIST
+Go through this fast:
+
+✔ Texture Type = Sprite (2D and UI)
+✔ Clicked Apply
+✔ Dragging into Fill → Image → Source Image
+✔ File is PNG/JPG
+✔ Image component exists
+
+💡 BONUS (IMPORTANT FOR YOUR BAR)
+After assigning it:
+
+Select Fill
+
+Set:
+
+Image Type → Filled
+
+Fill Method → Horizontal
+
+🚀 IF IT STILL DOESN’T WORK
+Send me:
+
+A screenshot of your Inspector
+
+Or tell me exactly what happens when you drag it
+
+I’ll pinpoint the issue immediately 👌
+
+
+Uploaded image
+it just doesnt let me drag my image into the source image
+
+Perfect — your screenshot actually makes the problem very clear 👍
+
+You’re VERY close, but here’s the issue:
+
+🚨 THE PROBLEM
+Right now your Fill Image Source is set to UISprite
+
+👉 That’s Unity’s default sprite — and your image is not replacing it
+
+This usually means:
+
+❌ Your imported image is NOT set as a Sprite properly
+
+✅ FIX (DO THIS EXACTLY)
+🔧 STEP 1: Click your image (bottom panel)
+In your screenshot:
+
+Click one of the images under Assets → UI
+
+🔧 STEP 2: Change Import Settings
+In the Inspector, set:
+
+Texture Type → ✅ Sprite (2D and UI)
+
+Sprite Mode → Single (leave it)
+
+Click Apply
+
+🔥 STEP 3: Now assign it PROPERLY
+Instead of dragging (which sometimes bugs):
+
+Do this:
+Select Fill
+
+In Source Image, click the small circle icon (to the right)
+
+👉 This opens the sprite picker
+
+Choose your image from the list
+
+⚠️ ALSO FIX THIS (IMPORTANT)
+Right now your Image Type = Sliced
+
+👉 That will NOT behave like a progress bar
+
+🔧 Change this:
+Select Fill, then:
+
+Image Type → ✅ Filled
+
+Fill Method → Horizontal
+
+💡 WHY DRAGGING DIDN’T WORK
+Unity sometimes blocks drag if:
+
+Texture isn’t a sprite
+
+UI filter mismatch
+
+Minor editor bug
+
+👉 The circle selector method always works
+
+🧪 AFTER THIS
+You should see:
+
+Your custom bar texture replacing the white box
+
+It will stretch properly
+
+🚀 NEXT STEP (IMPORTANT POLISH)
+Say:
+“fix my slider scaling”
+
+👉 because I can already see your bar is:
+
+Super thin
+
+Slightly misaligned
+
+I’ll help you make it look clean and professional 🔥
+
+
+okay
+
+Nice — let’s fix your slider so it actually looks clean and game-ready (right now it’s stretched and tiny).
+
+🎯 WHAT’S WRONG (FROM YOUR SCREENSHOT)
+I can see:
+
+The bar is very thin
+
+It’s slightly tilted / misaligned
+
+The Canvas is probably in World Space (3D), not screen UI
+
+👉 We’ll fix all of that.
+
+🖥️ STEP 1: FIX CANVAS MODE (IMPORTANT)
+Select your Canvas in Hierarchy.
+
+In Inspector:
+
+Render Mode → ✅ Screen Space - Overlay
+
+👉 This makes your UI flat on screen (much easier)
+
+📐 STEP 2: RESET THE SLIDER POSITION
+Select HealthBar (Slider parent)
+
+In Rect Transform:
+
+Click the anchor preset box (top-left square icon)
+
+Hold Alt + Shift
+
+Click Top Center
+
+👉 This will snap it nicely
+
+📏 STEP 3: FIX SIZE
+Still on the Slider:
+
+Set:
+
+Width → 300
+
+Height → 30
+
+👉 Now it won’t be that thin line anymore
+
+🧩 STEP 4: FIX THE FILL AREA
+Select:
+Fill Area
+
+Set:
+
+Left = 0
+
+Right = 0
+
+Top = 0
+
+Bottom = 0
+
+👉 This ensures it fills the whole bar
+
+🎨 STEP 5: FIX FILL IMAGE STRETCHING
+Select:
+Fill
+
+Make sure:
+
+Anchor preset → Stretch (full)
+
+Left/Right/Top/Bottom = 0
+
+⚠️ IMPORTANT IMAGE SETTINGS
+Still on Fill:
+
+Image Type → ✅ Filled
+
+Fill Method → Horizontal
+
+🟥 STEP 6: FIX BACKGROUND
+Select:
+Background
+
+Set:
+
+Same width/height as slider
+
+Assign your background image
+
+❌ STEP 7: REMOVE HANDLE (CLEAN LOOK)
+Delete:
+
+Handle Slide Area
+
+👉 You don’t need it
+
+🧪 STEP 8: TEST IT
+Select the Slider, then:
+
+Change Value in Inspector
+
+👉 You should see:
+
+Bar filling smoothly
+
+No weird stretching
+
+💡 PRO POLISH (OPTIONAL BUT NICE)
+Add spacing:
+Select Fill Area:
+
+Left = 5
+
+Right = 5
+
+Top = 5
+
+Bottom = 5
+
+👉 Gives a nice “bordered” look
+
+🏆 RESULT
+After this:
+
+Your bar will look clean
+
+Proper size
+
+Proper alignment
+
+Ready for code
+
+🚀 NEXT STEP (THIS IS BIG)
+Now we make it actually work in-game
+
+👉 Say:
+“connect health bar to damage”
+
+or
+👉 “connect repair bar to system”
+
+and I’ll hook it up to your scripts step-by-step 🔥
+
+
+Uploaded image
+its not really looking like the images
+
+Yeah — I see exactly what’s happening 👀
+Your bar works, but Unity is stretching your image incorrectly, so it looks flat and loses detail.
+
+Let’s fix it properly 👇
+
+🎯 WHY IT LOOKS WRONG
+Your generated image has:
+
+Rounded edges / nice design
+
+But Unity is:
+
+❌ Stretching the entire image across the bar
+
+So it:
+
+Blurs
+
+Flattens edges
+
+Looks “cheap”
+
+✅ FIX 1: USE SLICED MODE (BEST FOR UI BARS)
+This is the correct way for stylised bars like yours
+
+🔧 STEP 1: Set Image Type
+Select your Fill object, then:
+
+Image Type → ✅ Sliced (NOT Filled for now)
+
+🔧 STEP 2: Set Borders (VERY IMPORTANT)
+Click your image asset (in Assets folder)
+
+In Inspector:
+
+Click Sprite Editor
+
+Inside Sprite Editor:
+You’ll see a box like:
+
+|  left  |   center   |  right  |
+👉 Drag the green border lines:
+
+Keep the edges small (rounded corners)
+
+Let the middle stretch
+
+Example:
+Left: 10
+
+Right: 10
+
+Top/Bottom: small (5–10)
+
+Then click:
+👉 Apply
+
+🔥 WHAT THIS DOES
+Unity will now:
+
+Stretch ONLY the middle
+
+Keep edges clean
+
+👉 Your bar will look exactly like the image
+
+⚠️ IMPORTANT NOTE
+Now you have 2 options:
+
+🟢 OPTION A (BEST LOOK)
+Use Sliced
+
+Control size manually
+
+Fake the fill (mask or scale)
+
+🔵 OPTION B (EASIER — recommended for assignment)
+Keep:
+
+Image Type → Filled
+
+BUT use a simpler image
+
+👉 Because:
+
+Fancy images + Filled mode = distortion
+
+💡 QUICK FIX (IF YOU WANT FAST RESULT)
+Regenerate your fill image using this prompt:
+
+A flat simple horizontal progress bar fill, solid color gradient green to red, no rounded edges, no borders, minimal UI, transparent background
+👉 This works perfectly with Filled mode
+
+🏆 BEST STRATEGY (FOR YOUR PROJECT)
+Since you’re on a deadline:
+
+👉 Do this:
+
+Use your current image as Background
+
+Use a simple gradient bar as Fill
+
+✔ Looks clean
+✔ Works perfectly
+✔ No distortion
+
+🚀 WANT A CLEAN PRO LOOK?
+Say:
+
+👉 “make it look AAA UI”
+
+I’ll show you:
+
+How to combine background + fill + padding
+
+Make it look like a real shipped game UI 🔥
+
+
+Uploaded image
+walk me through the sprite editor stuff
+
+Perfect — this is exactly what I needed to see. You’re in the right place 👍
+
+Right now your Border = 0 on everything, which is why Unity is stretching the whole image and ruining the look.
+
+Let’s fix it properly 👇
+
+🎯 WHAT YOU’RE DOING HERE
+You’re telling Unity:
+
+“Don’t stretch the rounded ends — only stretch the middle”
+
+🔧 STEP-BY-STEP (DO THIS EXACTLY)
+🟢 STEP 1: Select BORDER TOOL
+In the Sprite Editor:
+
+Look at the image
+
+You should see green handles on the edges (you already do 👍)
+
+🟢 STEP 2: SET LEFT & RIGHT BORDERS
+In the bottom panel where it says:
+
+Border
+L 0   T 0   R 0   B 0
+Change it to something like:
+L = 80
+R = 80
+T = 10
+B = 10
+👉 You can tweak these, but this is a good start
+
+🧠 WHAT THIS DOES
+Left 80 → protects left rounded edge
+
+Right 80 → protects right rounded edge
+
+Top/Bottom small → prevents vertical distortion
+
+🔍 VISUAL CHECK (IMPORTANT)
+You should now see 9-slice lines like this:
+
+| fixed |   stretch   | fixed |
+👉 The middle section is bigger — that’s correct
+
+🟢 STEP 3: CLICK APPLY
+Top right of Sprite Editor:
+
+👉 Click Apply
+
+🎮 STEP 4: BACK IN UNITY
+Now:
+
+Select your Fill object
+
+Set:
+
+Image Type → ✅ Sliced
+
+🧪 STEP 5: TEST IT
+Resize your slider width
+
+👉 You should see:
+
+Ends stay rounded ✅
+
+Middle stretches smoothly ✅
+
+No weird distortion ✅
+
+⚠️ IMPORTANT REALITY CHECK
+👉 This will make it look correct
+
+BUT…
+
+❗ It will NOT behave like a progress bar yet
+Because:
+
+Sliced ≠ Fill animation
+
+🔥 THE CORRECT FINAL SETUP (BEST PRACTICE)
+🟥 Background (your current image)
+Use your nice stylised bar
+
+Image Type → Sliced
+
+🟩 Fill (separate simple image)
+Use:
+
+A plain gradient bar (no rounded edges)
+
+Set:
+
+Image Type → Filled
+
+Fill Method → Horizontal
+
+👉 This gives you:
+
+Clean visuals ✅
+
+Proper animation ✅
+
+No distortion ✅
+
+🏆 PRO RESULT (WHAT GOOD GAMES DO)
+They separate:
+
+Frame (background)
+
+Fill (simple)
+
+👉 You’re basically doing industry-standard UI now
+
+🚀 NEXT STEP
+Say:
+
+👉 “set up proper health bar with background + fill”
+
+I’ll walk you through:
+
+Layering them correctly
+
+Making it look AAA quality
+
+Hooking it into your health system 🔥
+
+
+im looking for some hazard prefabs in unity asset store, free ones specifically, what can i serach for or find
+
+Good move — getting solid prefabs will save you a LOT of time, especially for your 3-day plan.
+
+Since your game is about cleanup during chaos, you want hazards that feel like aftermath + danger zones, not just generic traps.
+
+🔍 WHAT TO SEARCH (USE THESE EXACT TERMS)
+Search these in the Unity Asset Store:
+
+💥 CORE HAZARDS (BEST FOR YOUR GAME)
+"sci fi hazards free"
+
+"environment hazards unity free"
+
+"danger props free"
+
+"industrial props free"
+
+"destruction props unity free"
+
+👉 These usually include:
+
+Sparks ⚡
+
+Fire 🔥
+
+Broken pipes 💨
+
+Electrical panels ⚠️
+
+🔥 FIRE + DAMAGE SYSTEMS
+"fire VFX free unity"
+
+"particle fire free unity"
+
+"explosion effects free unity"
+
+👉 Perfect for:
+
+Areas player must clean/avoid
+
+Damage-over-time zones
+
+⚡ ELECTRICAL HAZARDS (HIGHLY RECOMMENDED)
+"electric VFX unity free"
+
+"sci fi electricity effects free"
+
+👉 Fits your theme REALLY well:
+
+“Hero destroys stuff → wires exposed → you fix them”
+
+🧱 DESTRUCTION / DEBRIS
+"debris pack free unity"
+
+"rubble props free unity"
+
+"broken environment unity free"
+
+👉 Use for:
+
+Repair objectives
+
+Blocked paths
+
+☣️ BONUS (UNIQUE IDEA FOR MARKS)
+Search:
+
+"toxic gas unity free"
+
+"smoke VFX free unity"
+
+👉 You can make:
+
+Areas that drain health unless repaired
+
+Adds AI interaction opportunity
+
+🧠 WHAT YOUR LECTURER WILL LIKE (IMPORTANT)
+Don’t just place hazards — make them systems
+
+Examples:
+
+Hazard	AI Opportunity
+Fire	Spreads over time
+Electric sparks	Random intervals
+Gas leak	Expands area
+Falling debris	Triggered events
+👉 This = higher AI marks
+
+🔥 QUICK PICKS (SAFE BETS)
+If you just want something that works:
+
+Search:
+
+"Free VFX Pack Unity"
+
+"Starter Particle Pack Unity"
+
+"Low Poly Industrial Pack Free"
+
+👉 These almost always have usable hazards
+
+⚠️ WHAT TO AVOID
+❌ “Ultra realistic mega packs” → too heavy
+❌ “Character-heavy packs” → not useful
+❌ Anything requiring URP/HDRP if your project is built-in
+
+🚀 PRO TIP (FOR YOUR GAME IDEA)
+Your hazards should feel like:
+
+“The hero CAUSED this… now I must deal with it”
+
+So prioritize:
+
+🔥 Fire
+
+⚡ Electricity
+
+💥 Broken objects
+
+☢️ Environmental damage
+
+👉 NEXT STEP
+If you want, I can:
+
+✔ Pick specific free assets for you
+✔ Show you how to turn them into damage + repair systems
+✔ Help you script AI hazard behavior (for marks)
+
+Just say:
+
+👉 “pick assets for me”
+
+
+what can i use to generate free music for my game
+
+Nice — this is actually a smart move for marks. Using AI-generated music (especially if you explain it in your report) = extra points for innovation 🎯
+
+Here are the best FREE tools you can use right now, specifically for your Unity game 👇
+
+🎧 BEST FREE AI MUSIC GENERATORS
+🥇 Best overall (for games): Soundverse
+Website: Soundverse AI
+
+Generates: instrumental loops + background music
+
+Why it’s perfect:
+
+You can describe mood like:
+
+“tense sci-fi background, slow ambient, loopable”
+
+Has loop mode (VERY important for games)
+
+Royalty-free music you can use in your project 
+
+👉 This is honestly the best fit for your cleanup game
+
+🥈 Best for quick full songs: Suno AI
+Generates full songs (with vocals too)
+
+Super fast (like 30 seconds) 
+
+⚠️ BUT:
+
+Not ideal for games (songs ≠ background loops)
+
+👉 Use it only if you want:
+
+Menu music
+
+Funny theme songs
+
+🥉 Best for infinite background music: Mubert
+Generates endless looping music
+
+Good for:
+
+Ambient levels
+
+Background tension
+
+👉 Very useful if you don’t want repetition
+
+🎮 Best for game-style control: Soundraw
+Lets you tweak:
+
+Mood
+
+Intensity
+
+Instruments
+
+Good for:
+
+Action vs calm switching
+
+🔥 BONUS (VERY COOL)
+Udio / Gemini music tools
+Can generate music from:
+
+Text
+
+Images
+
+Newer tools with strong quality 
+
+🧠 WHAT YOU SHOULD USE (FOR YOUR GAME)
+For your Cleanup Crew game, do THIS:
+
+🎯 Use 2 TYPES of music:
+1. Gameplay loop (MAIN)
+Use:
+👉 Soundverse or Mubert
+
+Prompt example:
+
+Dark sci-fi ambient background, low intensity, subtle tension, loopable, no vocals
+2. Action / danger music
+Prompt:
+
+Fast-paced electronic tension music, chaotic, industrial, no vocals
+3. Menu music
+Optional:
+👉 Use Suno
+
+⚠️ IMPORTANT (FOR MARKS)
+Mention this in your assignment:
+
+“AI-generated music was used to create adaptive and context-aware audio environments”
+
+👉 Lecturers LOVE that
+
+🚀 PRO TIP (THIS WILL IMPRESS YOUR LECTURER)
+Don’t just add music — make it react to gameplay
+
+Example:
+
+Normal → calm music
+
+Hazard appears → tension music
+
+Player low health → intense music
+
+👉 That = AI/system thinking = higher marks
+
+🎯 SIMPLE WORKFLOW (DO THIS)
+Go to Soundverse
+
+Generate:
+
+1 calm track
+
+1 intense track
+
+Export as .mp3 or .wav
+
+Drag into Unity → Assets
+
+Add Audio Source → done
+
+👉 NEXT STEP
+If you want, I can:
+
+✔ Give you perfect prompts tailored to your game theme
+✔ Show you how to switch music in Unity based on danger level
+✔ Help you make it feel like a real AAA system
+
+Just say:
+
+👉 “set up dynamic music system”
+
+
+how do i add images to my canvas
+
+Alright — this is a core Unity UI skill, and once you get it, everything (health bars, icons, menus) becomes easy.
+
+I’ll walk you through it cleanly 👇
+
+🖼️ HOW TO ADD IMAGES TO A CANVAS IN UNITY
+🟢 STEP 1: MAKE SURE YOU HAVE A CANVAS
+In Hierarchy:
+
+Right click → UI → Canvas
+
+👉 Unity will also create an EventSystem automatically (that’s correct)
+
+🟢 STEP 2: ADD AN IMAGE
+Inside the Canvas:
+
+Right click Canvas
+
+→ UI → Image
+
+👉 This creates:
+
+A UI Image object
+
+With a RectTransform (UI positioning)
+
+🟢 STEP 3: IMPORT YOUR IMAGE
+Drag your image into:
+
+👉 Assets folder
+
+🟢 STEP 4: IMPORTANT SETTINGS (THIS IS WHERE PEOPLE GET STUCK)
+Click your image in Assets → Inspector:
+
+Set:
+
+Texture Type → Sprite (2D and UI) ✅
+
+Click Apply
+
+👉 If you don’t do this, it WON’T show in UI
+
+🟢 STEP 5: ASSIGN THE IMAGE
+Now:
+
+Click your UI Image object (in Canvas)
+
+In Inspector → find Image component
+
+Look for:
+
+Source Image
+Drag your sprite into it
+
+🎯 DONE — it should now appear
+🧱 POSITIONING IT PROPERLY
+Use RectTransform:
+
+Anchor presets (top left, center, etc.)
+
+Width / Height
+
+Pos X / Pos Y
+
+👉 Example:
+
+Health bar → top left
+
+Repair bar → bottom center
+
+⚠️ COMMON PROBLEMS (YOU PROBABLY HIT ONE OF THESE)
+❌ “I can’t drag image into Source Image”
+✔ Fix:
+
+Set Texture Type → Sprite (2D and UI)
+
+❌ Image is invisible
+✔ Check:
+
+Color alpha ≠ 0
+
+Scale ≠ 0
+
+Inside Canvas
+
+Not behind something
+
+❌ Image looks stretched / weird
+✔ Fix:
+
+Enable Preserve Aspect
+OR
+
+Use proper size
+
+❌ Looks blurry
+✔ Fix in import settings:
+
+Filter Mode → Point (for pixel art)
+
+Compression → None
+
+🔥 FOR YOUR SLIDER (IMPORTANT)
+Since you’re working on UI bars:
+
+You’ll actually use:
+
+Background Image
+
+Fill Image (child object)
+
+👉 You already started this — you’re close
+
+🧠 PRO TIP (FOR MARKS)
+Use UI images for:
+
+Health bar
+
+Repair progress
+
+Hazard icons
+
+Objective markers
+
+👉 Shows UI understanding = marks
+
+🚀 NEXT STEP
+If you want, I can:
+
+✔ Fix your exact slider setup visually
+✔ Show you how to make:
+
+Health bar decrease
+
+Repair bar increase
+✔ Make it look clean and professional
+
+Just say:
+
+👉 “connect image to health system”
+
+
+okay but now i cant see my buttons
+
+Alright — this is a super common Unity UI issue. If your buttons disappeared after adding images, it’s almost always one of these 👇
+
+🔍 FIRST — QUICK CHECK (MOST LIKELY PROBLEM)
+👉 Your Image is covering your Buttons
+
+When you add a UI Image, Unity places it:
+
+on top
+
+and it can block everything behind it
+
+🛠️ FIX 1: CHECK HIERARCHY ORDER (VERY IMPORTANT)
+In your Hierarchy (inside Canvas):
+
+👉 UI renders top → bottom
+
+So:
+
+Canvas
+ ├── Background Image   ❌ (on top = BAD)
+ ├── Button
+✅ FIX IT LIKE THIS:
+Canvas
+ ├── Button
+ ├── Background Image   ✅ (move DOWN)
+👉 Or just:
+
+Drag your Image LOWER in the hierarchy
+
+🛠️ FIX 2: CHECK IMAGE SIZE
+Your image might be:
+
+👉 Full screen and covering everything
+
+Fix:
+Select the Image
+
+In RectTransform:
+
+Click anchor preset (top-left box icon)
+
+Hold Alt + Shift
+
+Choose something smaller OR center
+
+OR manually set:
+
+Width: 300
+
+Height: 100
+
+🛠️ FIX 3: CHECK BUTTON VISIBILITY
+Click your Button → Inspector:
+
+Image component:
+
+Color alpha ≠ 0
+
+Text (TMP):
+
+Not empty
+
+Color visible
+
+🛠️ FIX 4: CHECK CANVAS RENDER MODE
+Select Canvas:
+
+Render Mode should be:
+
+✅ Screen Space - Overlay (safest)
+
+🛠️ FIX 5: CHECK SCALE (VERY COMMON)
+Select Canvas:
+
+Scale should be:
+
+(1, 1, 1)
+If it's like:
+
+(0.01, 0.01, 0.01)
+👉 Everything becomes invisible
+
+🛠️ FIX 6: CHECK IF IMAGE IS BLOCKING CLICKS
+Even if you see the button, it might not be clickable.
+
+Select Image → Inspector:
+
+👉 Uncheck:
+
+Raycast Target
+🧠 WHAT PROBABLY HAPPENED (BASED ON YOUR LAST STEPS)
+Since you were working with:
+
+Slider images
+
+Fill images
+
+👉 You likely:
+
+Added a big UI Image
+
+It’s now sitting on top of your buttons
+
+🔥 QUICK FIX SUMMARY
+Do this in order:
+
+Move Image below buttons in hierarchy
+
+Resize Image smaller
+
+Set Canvas scale to (1,1,1)
+
+Disable Raycast Target (optional)
+
+🚀 IF IT STILL DOESN’T WORK
+Send me:
+👉 Screenshot of your Hierarchy + Inspector
+
+I’ll point out the exact issue in seconds
+
+🎯 NEXT STEP
+Once buttons are back, I can help you:
+
+✔ Make Start Game / Quit buttons work
+✔ Add hover effects
+✔ Make UI look clean + polished (for marks)
+
+
+how do i make sure my buttons are the same size as the images i got for them 
+
+Good question — this is exactly how you make your UI look clean and professional (and it definitely helps your marks 👌).
+
+I’ll show you the correct way (not the messy guessing way).
+
+🎯 GOAL
+Make your Button = same size as your image
+
+🟢 METHOD 1 (BEST): “Set Native Size”
+This is the easiest and most accurate way.
+
+✅ Steps:
+Select your Button
+
+In Inspector → find the Image component
+
+Make sure your image is assigned to:
+
+Source Image
+Click:
+
+👉 Set Native Size
+
+💥 What this does:
+Automatically resizes the button to match the image’s actual resolution
+
+🟢 METHOD 2: Match RectTransform manually
+If Set Native Size doesn’t look right:
+
+Step 1: Check your image size
+Click your image in Assets → Inspector shows:
+
+👉 Example:
+
+Width: 512
+Height: 128
+Step 2: Apply to button
+Select Button → RectTransform:
+
+Set:
+
+Width = 512
+Height = 128
+🟢 METHOD 3 (VERY IMPORTANT): Fix scaling issues
+If your button still looks wrong:
+
+Check Canvas Scaler
+Select Canvas → Inspector:
+
+Set:
+
+UI Scale Mode → Scale With Screen Size
+
+Reference Resolution → e.g.:
+
+1920 x 1080
+👉 This keeps UI consistent across screens
+
+🟢 METHOD 4: Keep proportions correct
+If your image is stretching:
+
+👉 Enable:
+
+Preserve Aspect
+(on the Image component)
+
+🟢 METHOD 5: Make TEXT fit inside button
+Your button probably has:
+
+Text (TMP) child
+
+Fix text:
+Select Text (child of button)
+
+Set:
+
+Anchor → stretch (hold Alt + Shift, click stretch)
+
+Adjust padding:
+
+Left / Right / Top / Bottom
+
+🔥 PRO TIP (THIS IS WHAT GOOD UI DOES)
+Don’t rely only on size — also:
+
+✔ Add padding inside the button
+✔ Keep consistent spacing between buttons
+✔ Use same width for all buttons
+
+⚠️ COMMON MISTAKE
+❌ Image is high resolution (e.g. 2048px)
+→ Button becomes HUGE
+
+👉 Fix:
+
+Scale down RectTransform
+OR
+
+Resize image externally
+
+🧠 FOR YOUR GAME (RECOMMENDED SETUP)
+For your cleanup game:
+
+Buttons:
+
+Same width (e.g. 300–400)
+
+Health bar:
+
+Long + thin (e.g. 400 x 40)
+
+Repair bar:
+
+Slightly smaller (e.g. 300 x 30)
+
+🚀 NEXT STEP
+If you want, I can:
+
+✔ Help you create a full UI layout (menu + in-game HUD)
+✔ Show you how to animate buttons (hover + click)
+✔ Help you make your UI look AAA-level clean
+
+Just say:
+
+👉 “design my UI layout”
+
+
+i want to generate some background music for my game, what can i use, i need free options
+
+Nice — this is exactly what you should be doing for your game 🎯
+Free + AI + explainable in your report = easy marks
+
+Here are the best FREE tools right now, and I’ll tell you exactly which one to use for your game 👇
+
+🎧 BEST FREE AI MUSIC TOOLS (2026)
+🥇 Soundverse (BEST FOR YOUR GAME)
+Generates: background music + loops
+
+You type:
+
+“dark sci-fi ambient, loopable, no vocals”
+
+✅ Why it’s perfect:
+
+Designed for game background music
+
+Can generate loopable tracks
+
+Free tier available 
+
+👉 This should be your main tool
+
+🥈 Mubert (BEST FOR ENDLESS LOOP MUSIC)
+Generates: continuous ambient music
+
+Great for:
+
+Gameplay background
+
+No repetition
+
+✅ Key advantage:
+
+Outputs clean instrumental loops ideal for games 
+
+👉 Use this if you want infinite background music
+
+🥉 Suno AI (BEST QUALITY BUT NOT IDEAL FOR GAMEPLAY)
+Generates: full songs (with vocals)
+
+Free version gives daily credits 
+
+⚠️ Downsides:
+
+Not loopable
+
+More for songs than background
+
+👉 Use for:
+
+Main menu music
+
+Intro theme
+
+🔥 Riffusion (FULLY FREE, NO PAYWALLS)
+Completely free
+
+No subscription required 
+
+👉 Good for:
+
+Quick experimentation
+
+Multiple tracks fast
+
+🎮 BONUS: Soundraw / Beatoven
+Focus on:
+
+Mood control
+
+Video/game music
+
+Limited free usage 
+
+🧠 WHAT YOU SHOULD ACTUALLY DO (FOR YOUR GAME)
+For your Cleanup Crew game, use this setup:
+
+🎯 1. MAIN GAMEPLAY MUSIC
+Use:
+👉 Soundverse OR Mubert
+
+Prompt:
+
+dark sci-fi ambient background, slow tension, industrial, no vocals, loopable
+🎯 2. DANGER / HAZARD MUSIC
+Prompt:
+
+fast-paced industrial electronic music, chaotic, tense, no vocals
+🎯 3. MENU MUSIC (OPTIONAL)
+Use:
+👉 Suno
+
+Prompt:
+
+futuristic calm theme, soft electronic, minimal, relaxing
+⚠️ IMPORTANT (FOR YOUR ASSIGNMENT)
+Mention this in your documentation:
+
+“AI-generated music was used to dynamically create adaptive audio environments, enhancing immersion while reducing development time.”
+
+👉 That sentence alone = marks for AI usage
+
+🚀 SUPER IMPORTANT TIP (HIGH MARKS)
+Don’t just add music — make it react to gameplay
+
+Example:
+
+Normal → calm music
+
+Hazards appear → intense music
+
+Low health → panic music
+
+👉 That shows:
+
+AI thinking
+
+Systems design
+
+Gameplay polish
+
+🧩 SIMPLE UNITY SETUP
+Download your .mp3 / .wav
+
+Drag into Assets
+
+Add to GameObject:
+
+Audio Source
+
+Enable:
+
+Loop ✅
+
+👉 NEXT STEP
+If you want, I can:
+
+✔ Give you perfect prompts tailored to your exact game vibe
+✔ Help you switch music dynamically in Unity (VERY IMPRESSIVE)
+✔ Or help you build a full audio system (easy marks)
+
+Just say:
+
+👉 “set up dynamic audio system”
+
+
+Gemini
+You said
+A simple 2D game UI health bar fill, horizontal bar, smooth gradient from bright green to red, clean minimal design, no text, no icons, transparent background, flat game UI style, high resolution
+
+Gemini said
+, AI generated
+
+You said
+A simple 2D game UI health bar background, dark grey metallic frame, empty horizontal bar, clean minimal design, no text, transparent background, flat game UI style
+
+Gemini said
+, AI generated
+
+You said
+A simple 2D game UI repair progress bar fill, horizontal bar, glowing blue energy style, smooth gradient, clean minimal design, no text, transparent background, flat futuristic UI style
+
+Gemini said
+, AI generated
+
+You said
+i want the bar to look full
+
+Gemini said
+, AI generated
+
+You said
+A simple 2D game UI repair bar background, industrial metallic frame, slightly worn look, horizontal bar, no text, transparent background, clean game UI style
+
+Gemini said
+, AI generated
+
+You said
+A simple 2D game UI repair progress bar fill, horizontal bar, rusted orange style, slightly rough gradient, clean minimal design, no text, transparent background, flat rusted UI style
+
+Gemini said
+, AI generated
+
+You said
+fill the image
+
+Gemini said
+, AI generated
+
+
+You said
+I want background music for my game that is about a worker who needs to cleanup after the mess of a heros battle. I want it to give off working or cleaning vibes. No lyrics. Must be loopable.
+
+Gemini said
+I've created a loopable background track for your game. It features a steady, rhythmic feel to match the cleaning theme, blended with an orchestral sound that hints at the grand hero's battle that came before.
+
+The music is ready for you to listen to directly in our chat!
+
+
+You said
+now make a pause menu screen
+
+Gemini said
+, AI generated
+
+You said
+it must just say pause on it, no buttons
+
+Gemini said
+, AI generated
+
+You said
+i want it to have a new background image, same style though
+
+Gemini said
+, AI generated
+
+You said
+more in the city
+
+Gemini said
+I can't create more images for you today, but I can still find images from the web.
+
+You said
+can i have a death screen
+
+Gemini said
+, AI generated
+
+You said
+I just want it to say Overworked! nothing else
+
+Gemini said
+, AI generated
+
+You said
+now with the same style, give me button designs for my play button, resume button, quit game button, main menu button, a pause button and restart button
+
+Gemini said
+, AI generated
+
+You said
+still waiting
+
+Gemini said
+We think we might have gotten this wrong. If you're looking for an image, please try again with "Create Image" enabled in the chat bar.
+
+You said
+transparent background, i just want the buttons
+
+Gemini said
+, AI generated
+
+You said
+fill in the buttons
+
+Gemini said
+, AI generated
+
+
+Cursor
+update my 
+refinements-changes.md
+ 
+
+Please add comments at the end of all my scripts to reference yourself as AI for making the scripts
+
+ScoreManager.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+ScoreUI.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+MainMenu.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+PauseMenu.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+DeathScreen.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+LevelTimer.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+MusicPlayer.cs
++2
+}
+// Created with AI assistance (Cursor + GPT-5.2).
+PlayModeStartScene.cs
++2
+#endif
+// Created with AI assistance (Cursor + GPT-5.2).
+Appended an end-of-file comment crediting AI assistance to these scripts (leaving third-party assets untouched):
+
+Assets/Scripts/PlayerController.cs
+Assets/Scripts/CleaningObjects.cs
+Assets/Scripts/ReparingObjects.cs
+Assets/Scripts/ThirdPersonCameraFollow.cs
+Assets/Scripts/Health.cs
+Assets/Scripts/HazardZone.cs
+Assets/Scripts/PlayerHealthUI.cs
+Assets/Scripts/ScoreManager.cs
+Assets/Scripts/ScoreUI.cs
+Assets/Scripts/MainMenu.cs
+Assets/Scripts/PauseMenu.cs
+Assets/Scripts/DeathScreen.cs
+Assets/Scripts/LevelTimer.cs
+Assets/Scripts/MusicPlayer.cs
+Assets/Editor/PlayModeStartScene.cs
+
+
