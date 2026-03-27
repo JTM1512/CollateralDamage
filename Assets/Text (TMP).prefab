@@ -65,16 +65,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Controls:
-
-    Move - W, A, S, D
-
-    Sprint - Shift
-
-    Clean - E
-
-    Repair
-    - F '
+  m_text: "Controls:\nMove - W, A, S, D\nSprint - Shift\nClean - E\nRepair - F \nPause
+    - ESC"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
