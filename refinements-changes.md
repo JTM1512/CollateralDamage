@@ -34,3 +34,5 @@
 - Added level countdown timer (`LevelTimer`): starts at 5 minutes, freezes on pause, turns red at 1 minute, and triggers death at 0.
 - Updated death screen to display final score (TMP text) when player dies.
 - Added `MusicPlayer` for background music with optional fade-out/fade-in looping to mask MP3 loop gaps.
+- Added controls/help text UI in `SampleScene` to show player input instructions.
+- Added generated UI images for all major menu buttons and screens (main menu, pause menu, and death screen).

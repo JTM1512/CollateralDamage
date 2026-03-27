@@ -62,7 +62,3 @@ AI tools were used as collaborative assistants to accelerate development. All ge
 
 ---
 
-## Reflection (To Complete)
-- AI strengths and weaknesses
-- Impact on workflow
-- Ethical considerations
